@@ -1,0 +1,240 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Phim hot";
+}
+<script src="~/js/services.js"></script>
+<!-- Page Title -->
+<div class="page-title" data-aos="fade">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">Phim</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a asp-action="Index">Trang chủ</a></li>
+                <li class="current">Phim</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+<!-- Service Details Section -->
+<section id="service-details" class="service-details section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="services-list">
+                    <a href="#" class="active">Thông tin phim</a>
+                    <a href="#">Đặt Vé</a>
+                    <a href="#">Lịch Chiếu</a>
+                    <a href="#">Tin tức phim </a>
+                </div>
+
+                <h4>Mua vé , đặt chỗ trực tuyến</h4>
+                <p>Mua vé nhanh chóng , giá vé rẻ không ngờ</p>
+            </div>
+
+            <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
+                <div class="services-item" data-aos="fade-up" data-aos-delay="300">
+                    <img src="/img/333.png" alt="" class="img-fluid services-img">
+                    <h3>Tấm</h3>
+                    <ul>
+                        <li><i class="bi bi-calendar"></i><span>Năm phát hành : 2024</span></li>
+                        <li><i class="bi bi-person-square"></i> <span>Đạo diễn : Trần Hữu Tấn</span></li>
+                        <li><i class="bi bi-globe"></i><span>Ngôn ngữ : Tiếng Việt</span></li>
+                        <li><i class="bi bi-clock"></i><span>Thời lượng : 121 phút</span></li>
+                        <li><i class="bi bi-info-circle"></i><span>Mô tả : </span></li>
+                    </ul>
+                    <p>
+                        Câu chuyện phim là dị bản kinh dị đẫm máu lấy cảm hứng từ truyện cổ tích nổi tiếng Tấm Cám, nội dung chính của phim xoay quanh Cám - em gái cùng cha khác mẹ của Tấm đồng thời sẽ có nhiều nhân vật và chi tiết sáng tạo, gợi cảm giác vừa lạ vừa quen cho khán giả..
+                    </p>
+                </div>
+                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
+                    <form action="starter-page.html" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-md-12">
+                                <label for="name-field" class="pb-2">Tên</label>
+                                <input type="text" name="name" id="name-field" class="form-control" required="">
+                            </div>
+
+                            <div class="col-md-12">
+                                <label for="email-field" class="pb-2">Email</label>
+                                <input type="email" name="email" id="email-field" class="form-control" required="">
+                            </div>
+
+                            <div class="col-lg-6 col-md-12">
+                                <label for="subject-field" class="pb-2">Số lượng vé</label>
+                                <input type="number" inputmode="numeric" class="form-control" name="subject" id="subject-field" required="">
+                            </div>
+
+                            <div class="col-md-6">
+                                <label for="pay-field" class="pb-2">Phương thức thanh toán</label>
+                                <select value="" name="select" class="pb-2 services-select" id="pay-field">
+                                    <option value="">Chọn phương thức thanh toán</option>
+                                    <option value="cod">Thanh toán tại quầy</option>
+                                    <option value="online">Thanh toán trực tuyến</option>
+                                </select>
+                            </div>
+
+
+
+                            <div class="col-md-12">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Hãy kiểm tra hòm thư email của bạn</div>
+
+                                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Tiến hành thanh toán</button>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
+                    <div class="item-holders d-flex row">
+                        <div class="service-time col-lg-3 col-md-6">
+                            <h4 class="text-center">T6 04/10 <i class="bi bi-calendar-week"></i></h4>
+                            <div class="time-table">
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        12:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">25 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        15:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">60 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        18:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">20 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        21:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">100 chỗ trống</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="service-time col-lg-3 col-md-6">
+                            <h4 class="text-center">T7 05/10 <i class="bi bi-flag"></i></h4>
+                            <div class="time-table">
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        12:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">5 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        15:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center text-danger">0 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        18:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">10 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        21:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">40 chỗ trống</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="service-time col-lg-3 col-md-6">
+                            <h4 class="text-center">CN 06/10 <i class="bi bi-flag"></i></h4>
+                            <div class="time-table">
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        12:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center text-danger">0 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        15:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center text-danger">0 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        18:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center text-danger">0 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        21:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">30 chỗ trống</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="service-time col-lg-3 col-md-6">
+                            <h4 class="text-center">T2 07/10 <i class="bi bi-calendar-week"></i></h4>
+                            <div class="time-table">
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        12:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">100 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        15:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">100 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        18:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">100 chỗ trống</p>
+                                </div>
+                                <div class="time-items">
+                                    <p class="time text-center">
+                                        21:00 <i class="bi bi-clock"></i>
+                                    </p>
+                                    <p class="text-center">100 chỗ trống</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
+                    <div class="items-holder">
+                        <div class="service-news">
+                            <h4>Cám </h4>
+                            <p>Dị bản của câu chuyện cổ tích Tấm cám trong tuổi thơ của nhiều người , được đạo diễn bởi Trần Hữu Tuấn</p>
+                        </div>
+                        <div class="service-news">
+                            <h4>Joker : Điên có đôi </h4>
+                            <p>Nơi Joker (Joanquin Phoenix thủ vai) tìm được tình yêu của đời mình</p>
+                        </div>
+                        <div class="service-news">
+                            <h4>Shin Cậu bé bút chì : Movie 31</h4>
+                            <p>Tiếp tục cuộc hành trình đầy vui nhộn của Shin </p>
+                        </div>
+                        <div class="service-news">
+                            <h4>Avenger: Endgame</h4>
+                            <p>Sống lại hồi ức về câu chuyện từng phá đảo phòng vé một thời</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- /Service Details Section -->

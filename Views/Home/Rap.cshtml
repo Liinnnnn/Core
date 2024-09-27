@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Chi nhánh rạp phim";
+}
+
+<!-- Page Title -->
+<div class="page-title" data-aos="fade">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">Rạp phim</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a asp-action="Index">Trang chủ</a></li>
+                <li class="current">Rạp phim</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+<!-- cinema Details Section -->
+<section id="cinema-details" class="cinema-details section">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-8">
+                <div class="cinema-details-slider swiper init-swiper">
+
+                    <script type="application/json" class="swiper-config">
+                        {
+                          "loop": true,
+                          "speed": 600,
+                          "autoplay": {
+                            "delay": 5000
+                          },
+                          "slidesPerView": "auto",
+                          "pagination": {
+                            "el": ".swiper-pagination",
+                            "type": "bullets",
+                            "clickable": true
+                          }
+                        }
+                    </script>
+
+                    <div class="swiper-wrapper align-items-center">
+                        <div class="swiper-slide">
+                            <img src="~/img/about/OIP.jpg" alt="">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="~/img/About/2.jpg" alt="">
+                        </div>
+
+                        <div class="swiper-slide">
+                            <img src="~/img/About/3.jpg" alt="">
+                        </div>
+
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="cinema-info" data-aos="fade-up" data-aos-delay="200">
+                    <h3>Thông tin cơ bản</h3>
+                    <ul>
+                        <li><strong>Chất lượng công chiếu</strong>: HD+</li>
+                        <li><strong>Đối tác</strong>: IMAX,imdb</li>
+                        <li><strong>Ngày khai trương</strong>: ngày 3 tháng 10, 2024</li>
+                    </ul>
+                </div>
+                <div class="cinema-description" data-aos="fade-up" data-aos-delay="300">
+                    <h2>Đem đến trải nhiêm điện ảnh chưa từng có</h2>
+                    <p>
+                        Rạp phim của chúng tôi luôn cung cấp tất cả các dịch vụ điện ảnh một cách hoàn mỹ nhất , đem lại trải nhiệm khó quên cho khách hàng.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /cinema Details Section -->
