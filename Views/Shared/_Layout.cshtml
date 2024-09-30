@@ -38,37 +38,21 @@
     <header id="header" class="header d-flex align-items-center sticky-top">
         <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-            <a href="" class="logo d-flex align-items-center me-auto">
+            <a asp-action ="Index" asp-controller="Home" class="logo d-flex align-items-center me-auto">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <!-- <img src="assets/img/logo.png" alt=""> -->
+                <img src="~/img/SP.png" alt="">
                 <h1 class="sitename">SkoPe</h1>
             </a>
 
             <nav id="navmenu" class="navmenu ">
                 <ul>
-                    <li><a asp-action ="Index" class="active">Trang chủ</a></li>
-                    <li><a asp-action="Rap">Rạp</a></li>
-                    <li><a href="#services">Giá vé</a></li>
-                    <li><a asp-action="Phim">Phim</a></li>
+                    <li><a asp-action ="Index" class="active" asp-controller="Home">Trang chủ</a></li>
+                    <li><a asp-action="Cinema" asp-controller="Cinema">Rạp</a></li>
+                    <li><a asp-action="Price" asp-controller="Price">Giá vé</a></li>
+                    <li><a asp-action="Film" asp-controller="Film">Phim</a></li>
                     <li><a class="btn-primary" href="">Đăng nhập</a></li>
                     <li><a class="btn-register" href="">Đăng kí</a></li>
-                    <!-- <li class="dropdown"><a href="#"><span>Phim</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                      <ul>
-                        <li><a href="#">Phim sắp chiếu</a></li>
-                        <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                          <ul>
-                            <li><a href="#">Deep Dropdown 1</a></li>
-                            <li><a href="#">Deep Dropdown 2</a></li>
-                            <li><a href="#">Deep Dropdown 3</a></li>
-                            <li><a href="#">Deep Dropdown 4</a></li>
-                            <li><a href="#">Deep Dropdown 5</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="#">Phim đang chiếu</a></li>
-                        <li><a href="#">Phim có suất đặc biệt</a></li>
-                      </ul>
-                    </li> -->
-                    <!-- <li><a href="#contact">Contact</a></li> -->
+                   
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -106,21 +90,13 @@
                     <h4>Đường dẫn</h4>
                     <ul>
                         <li><i class="bi bi-chevron-right"></i> <a asp-action="Index">Trang chủ</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a asp-action="Rap">Rạp</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a asp-action="Phim">Phim</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a asp-action="GiaVe">Giá vé</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a asp-action="Cinema" asp-controller="Cinema">Rạp</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a asp-action="Film" asp-controller="Film">Phim</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a asp-action="Price" asp-controller="Price">Giá vé</a></li>
                     </ul>
                 </div>
 
-                <!-- <div class="col-lg-2 col-md-3 footer-links">
-                  <h4>Our Services</h4>
-                  <ul>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-                    <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-                  </ul>
-                </div> -->
+         
 
                 <div class="col-lg-4 col-md-12">
                     <h4>Mạng xã hội</h4>
@@ -138,10 +114,7 @@
         <div class="container copyright text-center mt-4">
             <p>© <span>Copyright</span> <strong class="px-1 sitename">Ninestars</strong> <span>All Rights Reserved</span></p>
             <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you've purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+               
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
             </div>
         </div>

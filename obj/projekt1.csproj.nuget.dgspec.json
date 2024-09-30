@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\projekt1\\projekt1.csproj": {}
+    "C:\\Users\\ngtua\\Downloads\\Core\\projekt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\projekt1\\projekt1.csproj": {
+    "C:\\Users\\ngtua\\Downloads\\Core\\projekt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\projekt1\\projekt1.csproj",
+        "projectUniqueName": "C:\\Users\\ngtua\\Downloads\\Core\\projekt1.csproj",
         "projectName": "projekt1",
-        "projectPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\projekt1\\projekt1.csproj",
+        "projectPath": "C:\\Users\\ngtua\\Downloads\\Core\\projekt1.csproj",
         "packagesPath": "C:\\Users\\ngtua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\projekt1\\obj\\",
+        "outputPath": "C:\\Users\\ngtua\\Downloads\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

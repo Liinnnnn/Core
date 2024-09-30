@@ -18,15 +18,6 @@ namespace projekt1.Controllers
             return View();
         }
 
-        public IActionResult Rap() { 
-            
-            return View();
-        }
-
-        public IActionResult Phim() {
-            return View();
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
