@@ -4,7 +4,7 @@ namespace projekt1.Controllers
 {
     public class PriceController : Controller
     {
-        public IActionResult Price()
+        public IActionResult Index()
         {
             return View();
         }

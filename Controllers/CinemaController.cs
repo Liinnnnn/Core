@@ -4,7 +4,7 @@ namespace projekt1.Controllers
 {
     public class CinemaController : Controller
     {
-        public IActionResult Cinema()
+        public IActionResult Index()
         {
             return View();
         }

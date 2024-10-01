@@ -18,20 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Cinema/Cinema.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXENpbmVtYS5jc2h0bWw=
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Cinema/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Film/Film.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxGaWxtLmNzaHRtbA==
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Film/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Price/Price.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2VcUHJpY2UuY3NodG1s
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Price/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/Error.cshtml]

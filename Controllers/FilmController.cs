@@ -4,8 +4,7 @@ namespace projekt1.Controllers
 {
     public class FilmController : Controller
     {
-        [Route("Film")]
-        public IActionResult Film()
+        public IActionResult Index()
         {
             return View();
         }
