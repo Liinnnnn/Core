@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngtua\\Downloads\\Core\\",
+  "WorkspaceRootPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\price\\price.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\price.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\price.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\film\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\film\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\film\\film.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\cinema\\cinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\cinema\\cinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\cinema\\cinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\downloads\\core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,24 +74,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PriceController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\PriceController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
               "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\PriceController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
               "RelativeToolTip": "Controllers\\PriceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:13:24.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T04:13:24.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CinemaController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CinemaController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "Controllers\\CinemaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,26 +99,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FilmController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\FilmController.cs",
               "RelativeToolTip": "Controllers\\FilmController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:12:45.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T04:12:45.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-29T14:11:27.497Z",
               "EditorCaption": ""
@@ -128,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -140,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Film.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Film\\Film.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Film.cshtml",
               "RelativeDocumentMoniker": "Views\\Film\\Film.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Film\\Film.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Film.cshtml",
               "RelativeToolTip": "Views\\Film\\Film.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -152,35 +150,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:09:05.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:09:05.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Price.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Price\\Price.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Price.cshtml",
               "RelativeDocumentMoniker": "Views\\Price\\Price.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Price\\Price.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Price.cshtml",
               "RelativeToolTip": "Views\\Price\\Price.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:07:40.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:07:40.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "starter-page.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\starter-page.html",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\starter-page.html",
               "RelativeDocumentMoniker": "Views\\Home\\starter-page.html",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\starter-page.html",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\starter-page.html",
               "RelativeToolTip": "Views\\Home\\starter-page.html",
               "ViewState": "AgIAAKoAAAAAAAAAAAAwwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -190,9 +186,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "contact.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\contact.html",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\contact.html",
               "RelativeDocumentMoniker": "Views\\Home\\contact.html",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\contact.html",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\contact.html",
               "RelativeToolTip": "Views\\Home\\contact.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -202,9 +198,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "letter.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\letter.html",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\letter.html",
               "RelativeDocumentMoniker": "Views\\Home\\letter.html",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Home\\letter.html",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\letter.html",
               "RelativeToolTip": "Views\\Home\\letter.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -214,9 +210,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Cinema.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Cinema\\Cinema.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Cinema.cshtml",
               "RelativeDocumentMoniker": "Views\\Cinema\\Cinema.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\Cinema\\Cinema.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Cinema.cshtml",
               "RelativeToolTip": "Views\\Cinema\\Cinema.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -226,9 +222,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\Downloads\\Core\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
