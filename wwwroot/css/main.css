@@ -1015,6 +1015,9 @@ section,
   list-style: none;
   text-align: center;
 }
+.film-container{
+    height:100%!important;
+}
 
 .film .film-filters li {
     cursor: pointer;

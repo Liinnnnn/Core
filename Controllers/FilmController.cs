@@ -4,6 +4,7 @@ namespace projekt1.Controllers
 {
     public class FilmController : Controller
     {
+        
         public IActionResult Index()
         {
             if(!User.Identity.IsAuthenticated)
