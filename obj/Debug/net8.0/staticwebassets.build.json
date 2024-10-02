@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "jqx/yh9ZxhPTLpggfV7j2MJMIJrnp/y3BI/vpG99KeY=",
+=======
+  "Hash": "c9ERMBGTc7O5RzSPxhRzD862VASPWO7fim3zivtUYWU=",
+>>>>>>> Stashed changes
   "Source": "projekt1",
   "BasePath": "_content/projekt1",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "projekt1\\wwwroot",
       "Source": "projekt1",
+<<<<<<< Updated upstream
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\projekt1.styles.css",
       "SourceId": "projekt1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\projekt1.styles.css",
+      "SourceId": "projekt1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "projekt1.styles.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\projekt1.styles.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "projekt1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\bundle\\projekt1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css",
+      "SourceId": "projekt1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "projekt1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< Updated upstream
       "OriginalItemSpec": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -74,10 +109,17 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\favicon.ico",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\favicon.ico",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +135,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\333.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\333.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/333.png",
       "AssetKind": "All",
@@ -112,10 +161,17 @@
       "OriginalItemSpec": "wwwroot\\img\\333.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\2.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\2.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/About/2.jpg",
       "AssetKind": "All",
@@ -131,10 +187,17 @@
       "OriginalItemSpec": "wwwroot\\img\\About\\2.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\3.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\3.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/About/3.jpg",
       "AssetKind": "All",
@@ -150,10 +213,17 @@
       "OriginalItemSpec": "wwwroot\\img\\About\\3.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\OIP.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\OIP.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/About/OIP.jpg",
       "AssetKind": "All",
@@ -169,10 +239,17 @@
       "OriginalItemSpec": "wwwroot\\img\\About\\OIP.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\about-img.svg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\about-img.svg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/about-img.svg",
       "AssetKind": "All",
@@ -188,10 +265,17 @@
       "OriginalItemSpec": "wwwroot\\img\\about-img.svg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\anh-mo-ta (1).png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\anh-mo-ta (1).png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/anh-mo-ta (1).png",
       "AssetKind": "All",
@@ -207,10 +291,17 @@
       "OriginalItemSpec": "wwwroot\\img\\anh-mo-ta (1).png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\apple-touch-icon.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\apple-touch-icon.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/apple-touch-icon.png",
       "AssetKind": "All",
@@ -226,10 +317,17 @@
       "OriginalItemSpec": "wwwroot\\img\\apple-touch-icon.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png",
       "AssetKind": "All",
@@ -245,10 +343,17 @@
       "OriginalItemSpec": "wwwroot\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\bing_generated_qrcode.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\bing_generated_qrcode.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/bing_generated_qrcode.png",
       "AssetKind": "All",
@@ -264,10 +369,17 @@
       "OriginalItemSpec": "wwwroot\\img\\bing_generated_qrcode.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-1.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-1.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-1.png",
       "AssetKind": "All",
@@ -283,10 +395,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-1.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-2.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-2.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-2.png",
       "AssetKind": "All",
@@ -302,10 +421,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-2.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-3.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-3.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-3.png",
       "AssetKind": "All",
@@ -321,10 +447,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-3.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-4.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-4.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-4.png",
       "AssetKind": "All",
@@ -340,10 +473,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-4.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-5.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-5.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-5.png",
       "AssetKind": "All",
@@ -359,10 +499,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-5.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-6.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-6.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-6.png",
       "AssetKind": "All",
@@ -378,10 +525,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-6.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-7.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-7.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-7.png",
       "AssetKind": "All",
@@ -397,10 +551,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-7.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-8.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-8.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/clients/client-8.png",
       "AssetKind": "All",
@@ -416,10 +577,17 @@
       "OriginalItemSpec": "wwwroot\\img\\clients\\client-8.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\favicon.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\favicon.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -435,10 +603,17 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\da.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\da.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/da.png",
       "AssetKind": "All",
@@ -454,10 +629,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\da.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_08_01_38-400x633-182208-010824-97.png",
       "AssetKind": "All",
@@ -473,10 +655,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_08_20_q-101323-200824-62.jpg",
       "AssetKind": "All",
@@ -492,10 +681,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg",
       "AssetKind": "All",
@@ -511,10 +707,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg",
       "AssetKind": "All",
@@ -530,10 +733,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png",
       "AssetKind": "All",
@@ -549,10 +759,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_09_19_482wx722h-162630-190924-83.jpg",
       "AssetKind": "All",
@@ -568,10 +785,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png",
       "AssetKind": "All",
@@ -587,10 +811,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png",
       "AssetKind": "All",
@@ -606,10 +837,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\R.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\R.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/R.jpg",
       "AssetKind": "All",
@@ -625,10 +863,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\R.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\tam.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\tam.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/film/tam.jpg",
       "AssetKind": "All",
@@ -644,10 +889,17 @@
       "OriginalItemSpec": "wwwroot\\img\\film\\tam.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\hero-img.svg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\hero-img.svg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/hero-img.svg",
       "AssetKind": "All",
@@ -663,10 +915,17 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-img.svg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\logo.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\logo.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -682,10 +941,17 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\OIF.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\OIF.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/OIF.jpg",
       "AssetKind": "All",
@@ -701,10 +967,17 @@
       "OriginalItemSpec": "wwwroot\\img\\OIF.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\services.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\services.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/services.jpg",
       "AssetKind": "All",
@@ -720,10 +993,17 @@
       "OriginalItemSpec": "wwwroot\\img\\services.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\SP.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\SP.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/SP.png",
       "AssetKind": "All",
@@ -739,10 +1019,17 @@
       "OriginalItemSpec": "wwwroot\\img\\SP.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\dangu.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\dangu.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/dangu.png",
       "AssetKind": "All",
@@ -758,10 +1045,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\dangu.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\dinhngu.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\dinhngu.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/dinhngu.png",
       "AssetKind": "All",
@@ -777,10 +1071,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\dinhngu.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\haingu.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\haingu.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/haingu.png",
       "AssetKind": "All",
@@ -796,10 +1097,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\haingu.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\huyocc.png",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\huyocc.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/huyocc.png",
       "AssetKind": "All",
@@ -815,10 +1123,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\huyocc.png"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\IMG_20240107_183251.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\IMG_20240107_183251.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/IMG_20240107_183251.jpg",
       "AssetKind": "All",
@@ -834,10 +1149,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\IMG_20240107_183251.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-1.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-1.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/team-1.jpg",
       "AssetKind": "All",
@@ -853,10 +1175,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-1.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-2.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-2.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/team-2.jpg",
       "AssetKind": "All",
@@ -872,10 +1201,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-2.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-3.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-3.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/team-3.jpg",
       "AssetKind": "All",
@@ -891,10 +1227,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-3.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-4.jpg",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-4.jpg",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "img/team/team-4.jpg",
       "AssetKind": "All",
@@ -910,10 +1253,17 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-4.jpg"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\js\\main.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -929,10 +1279,17 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\js\\services.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\services.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "js/services.js",
       "AssetKind": "All",
@@ -948,10 +1305,17 @@
       "OriginalItemSpec": "wwwroot\\js\\services.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/aos/aos.cjs.js",
       "AssetKind": "All",
@@ -967,10 +1331,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\aos\\aos.cjs.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/aos/aos.css",
       "AssetKind": "All",
@@ -986,10 +1357,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\aos\\aos.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.esm.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.esm.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/aos/aos.esm.js",
       "AssetKind": "All",
@@ -1005,10 +1383,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\aos\\aos.esm.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/aos/aos.js",
       "AssetKind": "All",
@@ -1024,10 +1409,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\aos\\aos.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/aos/aos.js.map",
       "AssetKind": "All",
@@ -1043,10 +1435,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\aos\\aos.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/aos/aos.cjs.js",
       "AssetKind": "All",
@@ -1062,10 +1461,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/aos/aos.css",
       "AssetKind": "All",
@@ -1081,10 +1487,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\aos\\aos.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.esm.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.esm.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/aos/aos.esm.js",
       "AssetKind": "All",
@@ -1100,10 +1513,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\aos\\aos.esm.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/aos/aos.js",
       "AssetKind": "All",
@@ -1119,10 +1539,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\aos\\aos.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/aos/aos.js.map",
       "AssetKind": "All",
@@ -1138,10 +1565,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\aos\\aos.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1157,10 +1591,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1176,10 +1617,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1195,10 +1643,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1669,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1695,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1721,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1747,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1773,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1309,10 +1799,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1328,10 +1825,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1347,10 +1851,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1366,10 +1877,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1385,10 +1903,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1404,10 +1929,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1423,10 +1955,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1442,10 +1981,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1461,10 +2007,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1480,10 +2033,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1499,10 +2059,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1518,10 +2085,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1537,10 +2111,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1556,10 +2137,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1575,10 +2163,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1594,10 +2189,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1613,10 +2215,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1632,10 +2241,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1651,10 +2267,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1670,10 +2293,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1689,10 +2319,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1708,10 +2345,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1727,10 +2371,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1746,10 +2397,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\prb.txt",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\prb.txt",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/css/prb.txt",
       "AssetKind": "All",
@@ -1765,10 +2423,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\css\\prb.txt"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1784,10 +2449,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1803,10 +2475,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1822,10 +2501,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1841,10 +2527,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1860,10 +2553,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1879,10 +2579,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1898,10 +2605,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1917,10 +2631,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -1936,10 +2657,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1955,10 +2683,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1974,10 +2709,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1993,10 +2735,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -2012,10 +2761,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -2031,10 +2787,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -2050,10 +2813,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -2069,10 +2839,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -2088,10 +2865,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -2107,10 +2891,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -2126,10 +2917,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -2145,10 +2943,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -2164,10 +2969,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -2183,10 +2995,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/imagesloaded/imagesloaded.pkgd.min.js",
       "AssetKind": "All",
@@ -2202,10 +3021,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -2221,10 +3047,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -2240,10 +3073,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2259,10 +3099,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\php-email-form\\validate.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\php-email-form\\validate.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/php-email-form/validate.js",
       "AssetKind": "All",
@@ -2278,10 +3125,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\php-email-form\\validate.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2297,10 +3151,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2316,10 +3177,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -2335,10 +3203,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -2354,10 +3229,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -2373,10 +3255,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -2392,10 +3281,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -2411,10 +3307,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -2430,10 +3333,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -2449,10 +3359,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -2468,10 +3385,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -2487,10 +3411,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -2506,10 +3437,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -2525,10 +3463,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/imagesloaded/imagesloaded.pkgd.min.js",
       "AssetKind": "All",
@@ -2544,10 +3489,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -2563,10 +3515,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\isotope-layout\\isotope.pkgd.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -2582,10 +3541,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2601,10 +3567,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2620,10 +3593,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2639,10 +3619,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2658,10 +3645,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2677,10 +3671,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2696,10 +3697,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2715,10 +3723,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2734,10 +3749,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2753,10 +3775,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2772,10 +3801,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2791,10 +3827,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2810,10 +3853,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\php-email-form\\validate.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\php-email-form\\validate.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/php-email-form/validate.js",
       "AssetKind": "All",
@@ -2829,10 +3879,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\php-email-form\\validate.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2848,10 +3905,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2867,10 +3931,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.js"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "projekt1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/projekt1",
       "RelativePath": "lib/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",

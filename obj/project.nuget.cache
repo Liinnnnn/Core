@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "Qy5c7TsOaT4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Core\\projekt1.csproj",
+=======
+  "dgSpecHash": "74L7b8PpfrU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
