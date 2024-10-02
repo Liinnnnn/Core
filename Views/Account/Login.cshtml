@@ -5,44 +5,40 @@
 }
 <div class="page-title" data-aos="fade">
     <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">Đăng kí</h1>
+        <h1 class="mb-2 mb-lg-0">Đăng nhập</h1>
         <nav class="breadcrumbs">
             <ol>
                 <li><a asp-action="Index" asp-controller="Home">Trang chủ</a></li>
-                <li class="current">Đăng kí</li>
+                <li class="current">Đăng nhập</li>
             </ol>
         </nav>
     </div>
 </div>
 
-<section id="register" class="register section">
+<section id="login" class="login section">
     <div class="container">
-
         <div class="row offset-0 offset-md-3 gy-4">
             <form action="" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
-                <div class="col-md-6">
-                    <a asp-action="Login" asp-controller="Account" class="active"><i class="bi bi-arrow-left"></i> Đăng nhập</a>
+                <div class="col-md-6" style="text-align: end;">
+                    <a asp-action="Register" asp-controller="Account" class="active"> Đăng kí <i class="bi bi-arrow-right"></i></a>
+                    <p class="error-message"></p>
                 </div>
-
-                <div class="col-md-6 mt-4 mb-4">
+                <div class="col-md-6">
                     <label for="email-field" class="pb-2">Email</label>
                     <input type="text" name="email" id="email-field" class="form-control" required="">
                     <p class="error-message"></p>
                 </div>
 
-                <div class="col-md-6 mb-4">
+                <div class="col-md-6 mb-2">
                     <label for="Password" class="pb-2">Mật khẩu</label>
                     <input type="Password" name="Password" id="Password" class="form-control" required="">
                     <p class="error-message"></p>
                 </div>
-
-                <div class="col-md-6 mb-4">
-                    <label for="Confirm-Password" class="pb-2">Xác nhận lại mật khẩu</label>
-                    <input type="Password" name="Confirm-Password" id="Confirm-Password" class="form-control" required="">
-                    <p class="error-message"></p>
+                <div class="col-md-6 mb-2">
+                    <a href="" class="active">Quên mật khẩu ?</a>
                 </div>
 
-                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Đăng kí</button>
+                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Đăng nhập</button>
             </form>
         </div>
     </div>

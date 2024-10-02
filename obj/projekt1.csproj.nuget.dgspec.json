@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\projekt1.csproj": {}
+    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\projekt1.csproj": {
+    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\projekt1.csproj",
+        "projectUniqueName": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
         "projectName": "projekt1",
-        "projectPath": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\projekt1.csproj",
-        "packagesPath": "C:\\Users\\thedinh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\obj\\",
+        "projectPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
+        "packagesPath": "C:\\Users\\ngtua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thedinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngtua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
