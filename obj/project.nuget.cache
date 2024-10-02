@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74L7b8PpfrU=",
+  "dgSpecHash": "Qy5c7TsOaT4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Core\\projekt1.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
