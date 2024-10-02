@@ -3,18 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,10 +73,13 @@
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,6 +98,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,7 +159,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 11,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +175,36 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 0,
+              "Title": "film.html",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\film.html",
+              "RelativeDocumentMoniker": "Views\\Home\\film.html",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\film.html",
+              "RelativeToolTip": "Views\\Home\\film.html",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T17:02:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T14:54:12.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+>>>>>>> Stashed changes
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -138,6 +212,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< Updated upstream
               "WhenOpened": "2024-10-02T01:11:32.708Z",
               "EditorCaption": ""
             },
@@ -179,10 +254,13 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-02T00:53:52.905Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2024-09-29T14:11:27.497Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
@@ -226,7 +304,11 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAHYAAAAAAAAAAAAAAIUAAAAUAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIsAAAAOAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-29T14:11:25.561Z",
               "EditorCaption": ""
@@ -234,6 +316,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
+=======
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Price\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "RelativeToolTip": "Views\\Price\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T14:07:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T14:09:41.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+>>>>>>> Stashed changes
               "Title": "NavMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\NavMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\NavMenu.cshtml",
@@ -241,11 +350,11 @@
               "RelativeToolTip": "Views\\Shared\\NavMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T03:22:34.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T03:22:34.752Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\Account.cs",
@@ -272,6 +381,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -283,6 +395,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
@@ -296,6 +409,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 7,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
+              "RelativeToolTip": "Controllers\\PriceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:13:24.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "FilmController.cs",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
@@ -307,7 +435,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 5,
+>>>>>>> Stashed changes
               "Title": "CinemaController.cs",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CinemaController.cs",
@@ -319,7 +451,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 11,
+>>>>>>> Stashed changes
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -331,7 +467,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 16,
+=======
+              "DocumentIndex": 12,
+>>>>>>> Stashed changes
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -343,7 +483,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 17,
+=======
+              "DocumentIndex": 13,
+>>>>>>> Stashed changes
               "Title": "FooterAbout.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FooterAbout.cshtml",
@@ -355,7 +499,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 20,
+=======
+              "DocumentIndex": 16,
+>>>>>>> Stashed changes
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cinema\\Index.cshtml",
@@ -367,7 +515,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 17,
+>>>>>>> Stashed changes
               "Title": "contact.html",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\contact.html",
               "RelativeDocumentMoniker": "Views\\Home\\contact.html",
@@ -379,7 +531,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 19,
+=======
+              "DocumentIndex": 15,
+>>>>>>> Stashed changes
               "Title": "Social.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Social.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Social.cshtml",
@@ -391,7 +547,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 18,
+=======
+              "DocumentIndex": 14,
+>>>>>>> Stashed changes
               "Title": "FooterLink.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterLink.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FooterLink.cshtml",
@@ -403,7 +563,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 18,
+>>>>>>> Stashed changes
               "Title": "main.css",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\main.css",
@@ -415,7 +579,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 23,
+=======
+              "DocumentIndex": 19,
+>>>>>>> Stashed changes
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
@@ -427,7 +595,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 21,
+>>>>>>> Stashed changes
               "Title": "starter-page.html",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\starter-page.html",
               "RelativeDocumentMoniker": "Views\\Home\\starter-page.html",
@@ -439,7 +611,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 24,
+=======
+              "DocumentIndex": 20,
+>>>>>>> Stashed changes
               "Title": "letter.html",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\letter.html",
               "RelativeDocumentMoniker": "Views\\Home\\letter.html",
@@ -451,7 +627,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 26,
+=======
+              "DocumentIndex": 22,
+>>>>>>> Stashed changes
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
