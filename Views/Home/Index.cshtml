@@ -136,11 +136,11 @@
                 <div class="row gy-4 isotope-container film-contaier" data-aos="fade-up" data-aos-delay="200">
                     @foreach (var s in Model)
                     {
-                        <div class="col-lg-4 col-md-6 film-item isotope-item filter-@s.Filter">
+                        <div class="col-lg-4 col-md-6 film-item isotope-item filter-@s.Status">
                             <div class="film-content h-100">
                                 <img src="@s.Link" class="img-fluid " alt="">
                                 <div class="film-info">
-                                    <h4>@s.Status</h4>
+                                    <h4>Đang chiếu</h4>
                                     <p>@s.Description</p>
                                     <a href="@s.Link" title="@s.Name" data-gallery="film-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a asp-action="Index" asp-controller="Film" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
