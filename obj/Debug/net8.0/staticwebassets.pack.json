@@ -1,603 +1,603 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css",
       "PackagePath": "staticwebassets\\projekt1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\333.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\333.png",
       "PackagePath": "staticwebassets\\img\\333.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\2.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\2.jpg",
       "PackagePath": "staticwebassets\\img\\About\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\3.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\3.jpg",
       "PackagePath": "staticwebassets\\img\\About\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\About\\OIP.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\About\\OIP.jpg",
       "PackagePath": "staticwebassets\\img\\About\\OIP.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\OIF.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\OIF.jpg",
       "PackagePath": "staticwebassets\\img\\OIF.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\SP.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\SP.png",
       "PackagePath": "staticwebassets\\img\\SP.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\about-img.svg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\about-img.svg",
       "PackagePath": "staticwebassets\\img\\about-img.svg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\anh-mo-ta (1).png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\anh-mo-ta (1).png",
       "PackagePath": "staticwebassets\\img\\anh-mo-ta (1).png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\apple-touch-icon.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png",
       "PackagePath": "staticwebassets\\img\\bang-gia-ve-tn-ve-2d-va-3d-1920x2400-150958-030424-19.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\bing_generated_qrcode.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\bing_generated_qrcode.png",
       "PackagePath": "staticwebassets\\img\\bing_generated_qrcode.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-1.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-1.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-2.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-2.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-3.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-3.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-4.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-4.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-5.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-5.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-6.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-6.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-7.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-7.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-8.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\clients\\client-8.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\R.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\R.jpg",
       "PackagePath": "staticwebassets\\img\\film\\R.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\da.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\da.png",
       "PackagePath": "staticwebassets\\img\\film\\da.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_08_01_38-400x633-182208-010824-97.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_08_20_q-101323-200824-62.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_08_20_z5748072757139-098d7f499c425ecb70ba5314e41623dc-101253-200824-22.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_09_11_tf1-intl-allspark-dgtl-online-payoff-keyart-vie-400x633-134254-110924-51.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_09_12_screenshot-2024-09-12-154232-154329-120924-21.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_09_19_482wx722h-162630-190924-83.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-150036-150139-190924-38.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png",
       "PackagePath": "staticwebassets\\img\\film\\media_images_2024_09_19_screenshot-2024-09-19-154629-154714-190924-43.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\tam.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\film\\tam.jpg",
       "PackagePath": "staticwebassets\\img\\film\\tam.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\hero-img.svg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\hero-img.svg",
       "PackagePath": "staticwebassets\\img\\hero-img.svg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\services.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\services.jpg",
       "PackagePath": "staticwebassets\\img\\services.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\IMG_20240107_183251.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\IMG_20240107_183251.jpg",
       "PackagePath": "staticwebassets\\img\\team\\IMG_20240107_183251.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\dangu.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\dangu.png",
       "PackagePath": "staticwebassets\\img\\team\\dangu.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\dinhngu.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\dinhngu.png",
       "PackagePath": "staticwebassets\\img\\team\\dinhngu.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\haingu.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\haingu.png",
       "PackagePath": "staticwebassets\\img\\team\\haingu.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\huyocc.png",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\huyocc.png",
       "PackagePath": "staticwebassets\\img\\team\\huyocc.png"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-1.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-2.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-3.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\team\\team-4.jpg",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\img\\team\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\services.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\js\\services.js",
       "PackagePath": "staticwebassets\\js\\services.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\lib\\aos\\aos.cjs.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.css",
       "PackagePath": "staticwebassets\\lib\\aos\\aos.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.esm.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\lib\\aos\\aos.esm.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.js",
       "PackagePath": "staticwebassets\\lib\\aos\\aos.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\lib\\aos\\aos.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\aos\\aos.cjs.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\aos\\aos.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.esm.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\aos\\aos.esm.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\aos\\aos.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\aos\\aos.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\prb.txt",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\css\\prb.txt",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\css\\prb.txt"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\php-email-form\\validate.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\php-email-form\\validate.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\lib\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\php-email-form\\validate.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\lib\\php-email-form\\validate.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\Source\\Repos\\Core\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
     },
     {
