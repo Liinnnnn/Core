@@ -1,152 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\",
+  "WorkspaceRootPath": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> Stashed changes
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\navmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\film.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> Stashed changes
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\footerabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\footerabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\footerabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\footerlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\footerlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\footerlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\shared\\social.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\shared\\social.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\shared\\social.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\letter.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\starter-page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\thedinh\\onedrive - university of transport and communications\\desktop\\giaotrinh\\ki_1_nam_3\\ltweb\\baitaplon\\core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -157,11 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 11,
-=======
-          "SelectedChildIndex": 5,
->>>>>>> Stashed changes
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,478 +126,319 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< Updated upstream
-=======
-              "Title": "film.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\film.html",
-              "RelativeDocumentMoniker": "Views\\Home\\film.html",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\film.html",
-              "RelativeToolTip": "Views\\Home\\film.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T17:02:11.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T14:54:12.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
->>>>>>> Stashed changes
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< Updated upstream
-              "WhenOpened": "2024-10-02T01:11:32.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T01:06:19.381Z",
+              "WhenOpened": "2024-10-02T03:31:33.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Film.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Film.html",
-              "RelativeDocumentMoniker": "Views\\Home\\Film.html",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Film.html",
-              "RelativeToolTip": "Views\\Home\\Film.html",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswFcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-02T01:05:56.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Register.cshtml*",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml*",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T00:53:52.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T03:31:33.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T00:53:00.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:51:54.996Z",
+              "WhenOpened": "2024-10-02T03:31:33.931Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Film\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
-              "RelativeToolTip": "Views\\Film\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:09:41.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PriceController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\PriceController.cs",
               "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\PriceController.cs",
               "RelativeToolTip": "Controllers\\PriceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:13:24.269Z"
+              "WhenOpened": "2024-10-02T03:31:33.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-=======
-              "WhenOpened": "2024-09-29T14:11:27.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
->>>>>>> Stashed changes
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-<<<<<<< Updated upstream
               "ViewState": "AgIAAHYAAAAAAAAAAAAAAIUAAAAUAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIQAAAAUAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:11:25.561Z",
+              "WhenOpened": "2024-10-02T03:31:33.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\NavMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\NavMenu.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\NavMenu.cshtml",
+              "RelativeToolTip": "Views\\Shared\\NavMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T03:31:33.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:31:33.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-=======
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Price\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
-              "RelativeToolTip": "Views\\Price\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:07:40.776Z"
+              "WhenOpened": "2024-10-02T03:31:33.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "Controllers\\FilmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:31:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "film.html",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\film.html",
+              "RelativeDocumentMoniker": "Views\\Home\\film.html",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\film.html",
+              "RelativeToolTip": "Views\\Home\\film.html",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswFcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T03:31:33.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Film\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Film\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Film\\Index.cshtml",
               "RelativeToolTip": "Views\\Film\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:09:41.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
->>>>>>> Stashed changes
-              "Title": "NavMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\NavMenu.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\NavMenu.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\NavMenu.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\NavMenu.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T03:22:34.752Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 8,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Models\\Account.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\Account.cs",
-              "RelativeToolTip": "Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T14:56:36.315Z"
+              "WhenOpened": "2024-10-02T03:31:33.947Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-=======
-              "DocumentIndex": 6,
->>>>>>> Stashed changes
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:09:05.311Z"
+              "WhenOpened": "2024-10-02T03:31:33.947Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Price\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Price\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Price\\Index.cshtml",
               "RelativeToolTip": "Views\\Price\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:07:40.776Z"
+              "WhenOpened": "2024-10-02T03:31:33.955Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-=======
-              "DocumentIndex": 7,
-              "Title": "PriceController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\PriceController.cs",
-              "RelativeToolTip": "Controllers\\PriceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:13:24.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
->>>>>>> Stashed changes
-              "Title": "FilmController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\FilmController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FilmController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\FilmController.cs",
-              "RelativeToolTip": "Controllers\\FilmController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:12:45.48Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 13,
-=======
-              "DocumentIndex": 5,
->>>>>>> Stashed changes
               "Title": "CinemaController.cs",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CinemaController.cs",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "Controllers\\CinemaController.cs",
-<<<<<<< Updated upstream
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:13:06.135Z"
+              "WhenOpened": "2024-10-02T03:31:33.963Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 15,
-=======
-              "DocumentIndex": 11,
->>>>>>> Stashed changes
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T14:44:58.189Z"
+              "WhenOpened": "2024-10-02T03:31:33.963Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 16,
-=======
-              "DocumentIndex": 12,
->>>>>>> Stashed changes
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T14:44:57.389Z"
+              "WhenOpened": "2024-10-02T03:31:33.963Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 17,
-=======
-              "DocumentIndex": 13,
->>>>>>> Stashed changes
+              "DocumentIndex": 16,
               "Title": "FooterAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\FooterAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FooterAbout.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterAbout.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\FooterAbout.cshtml",
               "RelativeToolTip": "Views\\Shared\\FooterAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T03:23:28.482Z"
+              "WhenOpened": "2024-10-02T03:31:33.971Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 20,
-=======
-              "DocumentIndex": 16,
->>>>>>> Stashed changes
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Cinema\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cinema\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Cinema\\Index.cshtml",
               "RelativeToolTip": "Views\\Cinema\\Index.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:05:40.836Z"
+              "WhenOpened": "2024-10-02T03:31:33.971Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 21,
-=======
-              "DocumentIndex": 17,
->>>>>>> Stashed changes
+              "DocumentIndex": 20,
               "Title": "contact.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\contact.html",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\contact.html",
               "RelativeDocumentMoniker": "Views\\Home\\contact.html",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\contact.html",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\contact.html",
               "RelativeToolTip": "Views\\Home\\contact.html",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T14:05:48.318Z"
+              "WhenOpened": "2024-10-02T03:31:33.979Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 19,
-=======
-              "DocumentIndex": 15,
->>>>>>> Stashed changes
+              "DocumentIndex": 18,
               "Title": "Social.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Social.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\Social.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Social.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\Social.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\Social.cshtml",
               "RelativeToolTip": "Views\\Shared\\Social.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T03:24:55.282Z"
+              "WhenOpened": "2024-10-02T03:31:33.979Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 18,
-=======
-              "DocumentIndex": 14,
->>>>>>> Stashed changes
+              "DocumentIndex": 17,
               "Title": "FooterLink.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterLink.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\FooterLink.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\FooterLink.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Shared\\FooterLink.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Shared\\FooterLink.cshtml",
               "RelativeToolTip": "Views\\Shared\\FooterLink.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T03:24:15.614Z"
+              "WhenOpened": "2024-10-02T03:31:33.979Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 22,
-=======
-              "DocumentIndex": 18,
->>>>>>> Stashed changes
+              "DocumentIndex": 21,
               "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\wwwroot\\css\\main.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\main.css",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\wwwroot\\css\\main.css",
               "RelativeToolTip": "wwwroot\\css\\main.css",
               "ViewState": "AgIAANwDAAAAAAAAAAAAAO4DAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-01T08:50:29.503Z"
+              "WhenOpened": "2024-10-02T03:31:33.987Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 23,
-=======
-              "DocumentIndex": 19,
->>>>>>> Stashed changes
+              "DocumentIndex": 22,
               "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\wwwroot\\js\\main.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\wwwroot\\js\\main.js",
               "RelativeToolTip": "wwwroot\\js\\main.js",
               "ViewState": "AgIAAMsAAAAAAAAAAAAAwO4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T10:21:37.329Z"
+              "WhenOpened": "2024-10-02T03:31:33.987Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 25,
-=======
-              "DocumentIndex": 21,
->>>>>>> Stashed changes
+              "DocumentIndex": 24,
               "Title": "starter-page.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\starter-page.html",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\starter-page.html",
               "RelativeDocumentMoniker": "Views\\Home\\starter-page.html",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\starter-page.html",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\starter-page.html",
               "RelativeToolTip": "Views\\Home\\starter-page.html",
               "ViewState": "AgIAAKoAAAAAAAAAAAAwwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T14:05:49.864Z"
+              "WhenOpened": "2024-10-02T03:31:33.995Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 24,
-=======
-              "DocumentIndex": 20,
->>>>>>> Stashed changes
+              "DocumentIndex": 23,
               "Title": "letter.html",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\letter.html",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\letter.html",
               "RelativeDocumentMoniker": "Views\\Home\\letter.html",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\letter.html",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\Home\\letter.html",
               "RelativeToolTip": "Views\\Home\\letter.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T14:05:45.664Z"
+              "WhenOpened": "2024-10-02T03:31:34.003Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 26,
-=======
-              "DocumentIndex": 22,
->>>>>>> Stashed changes
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\thedinh\\OneDrive - University of Transport and Communications\\Desktop\\giaotrinh\\Ki_1_nam_3\\LTWeb\\BaiTapLon\\Core\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T14:05:34.65Z"
+              "WhenOpened": "2024-10-02T03:31:34.003Z"
             }
           ]
         }
