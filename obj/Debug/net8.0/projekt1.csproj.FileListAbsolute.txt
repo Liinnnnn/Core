@@ -90,3 +90,34 @@ C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core\obj\Debug\net8.0\refint\projekt
 C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core\obj\Debug\net8.0\projekt1.pdb
 C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core\obj\Debug\net8.0\projekt1.genruntimeconfig.cache
 C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core\obj\Debug\net8.0\ref\projekt1.dll
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\appsettings.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.staticwebassets.runtime.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.exe
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.deps.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.runtimeconfig.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.dll
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\bin\Debug\net8.0\projekt1.pdb
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.AssemblyInfoInputs.cache
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.AssemblyInfo.cs
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.csproj.CoreCompileInputs.cache
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.RazorAssemblyInfo.cache
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.RazorAssemblyInfo.cs
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.sourcelink.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets\msbuild.projekt1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets\msbuild.build.projekt1.props
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.projekt1.props
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.projekt1.props
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\scopedcss\bundle\projekt1.styles.css
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\scopedcss\projectbundle\projekt1.bundle.scp.css
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.dll
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\refint\projekt1.dll
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.pdb
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\projekt1.genruntimeconfig.cache
+C:\Users\thedinh\OneDrive - University of Transport and Communications\Desktop\giaotrinh\Ki_1_nam_3\LTWeb\BaiTapLon\obj\Debug\net8.0\ref\projekt1.dll
