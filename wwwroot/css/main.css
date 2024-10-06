@@ -186,6 +186,7 @@ h6 {
   margin: 0 0 0 30px;
   border-radius: 50px;
   transition: 0.3s;
+  cursor: pointer;
 }
 
 .header .btn-primary:hover,
@@ -201,6 +202,20 @@ h6 {
   color: var(--accent-color);
 }
 
+.btn-day , .btn-night {
+  animation: scaleUp 0.4s ease-in;
+}
+@keyframes scaleUp {
+  0% {
+    transform: scale(20%);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(100%);
+    opacity: 1;
+  }
+
+}
 @media (max-width: 1200px) {
   .header .logo {
     order: 1;
@@ -219,6 +234,10 @@ h6 {
   }
 }
 
+.account-img {
+  border-radius: 50%;
+  width: 30px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -1015,20 +1034,21 @@ section,
   list-style: none;
   text-align: center;
 }
-.film-container{
-    height:100%!important;
+
+.film-container {
+  height: 100% !important;
 }
 
 .film .film-filters li {
-    cursor: pointer;
-    display: inline-block;
-    padding: 0;
-    font-size: 18px;
-    font-weight: 500;
-    margin: 0 10px;
-    line-height: 1;
-    margin-bottom: 5px;
-    transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 10px;
+  line-height: 1;
+  margin-bottom: 5px;
+  transition: all 0.3s ease-in-out;
 }
 
 .film .film-filters li:hover,
@@ -1594,4 +1614,114 @@ section,
 
 .cinema-details .swiper-slide img {
   width: 100%;
+  position: relative;
+}
+
+.cinema-slider .cinema-name {
+  color: var(--accent-color);
+  position: absolute;
+  top: 10px;
+}
+
+
+/* Account section */
+.account-avatar__container {
+  position: relative;
+}
+
+.account--change-avatar {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all .3s ease-in;
+}
+
+  .account--change-avatar label {
+      display: none;
+      color: var(--surface-color);
+      text-shadow: #252525 0 0 3px;
+  }
+
+  .account--change-avatar input[type="file"] {
+      display: none;
+  }
+
+.account-avatar {
+  width: 60%;
+  border-radius: 50%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.9);
+  display: flex;
+  margin: auto;
+  transform-origin: center center;
+  transition: all .3s ease-in;
+}
+
+.account-avatar__container:hover .account-avatar {
+  opacity: 0.9;
+ transform:scale(1.1);
+}
+
+.account-avatar__container:hover .account--change-avatar label {
+  display: block;
+  animation: flyIn .3 ease-in;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.account-info {
+  border: 2px var(--default-color) solid;
+  padding: 16px 4px;
+  border-radius: 4px;
+  height: 600px;
+}
+
+.account-menu a.active {
+  color: var(--accent-color);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.account-menu a {
+  display: block;
+  color: var(--default-color);
+  padding: 12px;
+}
+
+
+  .account-menu a:last-child:hover {
+      color: var(--nav-dropdown-hover-color);
+  }
+
+  .account-menu a:hover {
+      color: var(--accent-color);
+  }
+
+.notification {
+  display: block;
+  margin: 0 0 4px 0;
+  border-radius: 4px;
+}
+
+.noti-inform {
+  border: 4px solid var(--accent-color);
+  color: var(--contrast-color);
+  background-color: var(--nav-hover-color);
+}
+
+  .noti-inform h5, .noti-warn h5 {
+      color: var(--contrast-color);
+      text-shadow: #141414 0 0 4px;
+      opacity: 1;
+  }
+
+.noti-warn {
+  border: 2px solid var(--nav-dropdown-hover-color);
+  color: var(--contrast-color);
+  background-color: var(--nav-dropdown-hover-color);
+  opacity: 0.8;
+}
+
+.noti-warn:hover p, .noti-warn:hover h5 {
+ color: var(--accent-color);
 }

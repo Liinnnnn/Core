@@ -12,11 +12,12 @@ namespace projekt1.Controllers
         {
             db = context;
         }
+
         public IActionResult Login()
         {
             return View();
         }
-
+        
         [HttpGet]
         public IActionResult Register()
         {
