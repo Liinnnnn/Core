@@ -1,7 +1,8 @@
-﻿(function(){
+﻿const $ = document.querySelector.bind(document);
+const $$ = document.querySelectorAll.bind(document);
+(function () {
     "use strict";
-    const $ = document.querySelector.bind(document);
-    const $$ = document.querySelectorAll.bind(document);
+ 
     function activeService(){
         const accountMenu = $('.account-menu')
         const accountSetting =$$('.account-setting')
@@ -27,5 +28,17 @@
         })
     }
     window.addEventListener('load', activeService);
-  
-})();
+  })();
+function imgLoader() {
+    const img = $('.account-avatar')
+    const file = $('#file').files[0];
+    const url = new FileReader();
+    url.onloadend = function () {
+        img.src = url.result;
+    }
+
+    if (file) {
+        url.readAsDataURL(file)
+    } else
+        img.src = "/assets/img/team/dinhngu.png"
+}

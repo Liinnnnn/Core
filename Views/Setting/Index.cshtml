@@ -21,15 +21,7 @@
         <div class="row gy-4">
 
             <div class="col-lg-4 col-md-4 col-sm-12 account-info">
-                <div class="account-avatar__container" data-aos="fade-up" data-aos-delay="300">
-                    <label for="file">
-                        <img src="~/img/team/dinhngu.png" class="account-avatar" alt="  ">
-                    </label>
-                    <div class="account--change-avatar">
-                        <label for="file">Đổi ảnh đại diện</label>
-                        <input type="file" name="file" id="file">
-                    </div>
-                </div>
+               
                 <div class="account-menu" data-aos="fade-up" data-aos-delay="300">
                     <a href="#" class="active account-setting">Thông tin tài khoản</a>
                     <a href="#" class="account-setting">Thông báo</a>
@@ -41,6 +33,15 @@
                 <div class="account-details px-4 active" data-aos-delay="300">
                     <form action="starter-page.html" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
                         <div class="row gy-4">
+                            <div class="account-avatar__container col-md-12" data-aos="fade-up" data-aos-delay="300">
+                                <label for="file">
+                                    <img src="~/img/team/dinhngu.png" class="account-avatar" alt="  ">
+                                </label>
+                                <div class="account--change-avatar">
+                                    <label for="file">Đổi ảnh đại diện</label>
+                                    <input type="file" name="file" id="file" onchange="imgLoader()">
+                                </div>
+                            </div>
                             <div class="col-md-12">
                                 <label for="name-field" class="pb-2">Tên</label>
                                 <input type="text" name="name" id="name-field" value="Nguyễn Tuấn Linh" class="form-control" required="">
@@ -82,3 +83,4 @@
         </div>
     </div>
 </section>
+<script src="~/js/account.js"></script>
