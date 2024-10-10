@@ -72,12 +72,12 @@
                 </div>
 
                 <div class="col-md-6 mb-4">
-                    <label for="Confirm-Password" class="pb-2">Xác nhận lại mật khẩu</label>
-                    <input type="Password" name="Confirm-Password" id="Confirm-Password" class="form-control">
+                    <label asp-for="@Model.Confirmpassword" class="pb-2"></label>
+                    <input asp-for ="@Model.Confirmpassword" class="form-control">
                     <span asp-validation-for="@Model.Confirmpassword" class="text-danger "></span>
                 </div>
                
-                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Send Message</button>
+                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Đăng Ký</button>
             </form>
         </div>
     </div>

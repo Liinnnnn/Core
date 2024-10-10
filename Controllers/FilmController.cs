@@ -1,16 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace projekt1.Controllers
 {
     public class FilmController : Controller
     {
-        
+        [Authorize]
         public IActionResult Index()
         {
-            if(!User.Identity.IsAuthenticated)
-            {
-                return RedirectToAction("Login","Account");
-            }
             return View();
         }
     }
