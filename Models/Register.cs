@@ -12,7 +12,7 @@ namespace projekt1.Models
 
         [Display(Name = "Ngày Sinh")]
         [DataType(DataType.Date,ErrorMessage = "Nhập Ngày Sinh")]
-        [Range(typeof(DateTime),"1/1/1960","31/12/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 31/12/2006")]
+        [Range(typeof(DateOnly),"1/1/1960","31/12/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 31/12/2006")]
         public DateOnly BirthDay { get; set; }
 
         [Display(Name = "Giới Tính")]
@@ -37,11 +37,11 @@ namespace projekt1.Models
         [Required(ErrorMessage = "*")]
         [MaxLength(20, ErrorMessage = "Tối đa 20 kí tự!")]
         [DataType(DataType.Password)]
-        [RegularExpression(@"^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*\W).{8,}$", ErrorMessage = "Mật khẩu phải có ít nhất 8 ký tự, có chữ hoa, chữ thường, số và kí tự đặc biệt")]
-        public string Password { get; set; }
-        [Required(ErrorMessage = "*")]
+        //[RegularExpression(@"^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*\W).{8,}$", ErrorMessage = "Mật khẩu phải có ít nhất 8 ký tự, có chữ hoa, chữ thường, số và kí tự đặc biệt")]
+        public string? Password { get; set; }
+
         [Compare("Password",ErrorMessage = "Mật khẩu không khớp. Thử lại")]
         [Display(Name = "Nhập Lại Mật Khẩu")]
-        public string Confirmpassword { get; set; }
+        public string? Confirmpassword { get; set; }
     }
 }
