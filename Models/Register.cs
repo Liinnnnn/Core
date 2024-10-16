@@ -8,11 +8,12 @@ namespace projekt1.Models
         [Display(Name = "Họ và tên")]
         [Required(ErrorMessage = "*")]
         [MaxLength(50,ErrorMessage = "Tối đa 50 kí tự!")]
+        
         public string FullName { get; set; } = null!;
-
+        
         [Display(Name = "Ngày Sinh")]
         [DataType(DataType.Date,ErrorMessage = "Nhập Ngày Sinh")]
-        [Range(typeof(DateOnly),"1/1/1960","31/12/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 12/31/2006")]
+        //[Range(typeof(DateOnly),"1/1/1960","12/31/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 12/31/2006")]
         public DateOnly BirthDay { get; set; }
 
         [Display(Name = "Giới Tính")]

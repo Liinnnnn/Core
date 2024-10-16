@@ -1,13 +1,15 @@
 ﻿using System.Security.Claims;
+using System.Text;
+using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic.FileIO;
 using projekt1.Data;
 using projekt1.Models;
-using Microsoft.AspNetCore.Http;
+
 
 namespace projekt1.Controllers
 {
@@ -25,7 +27,7 @@ namespace projekt1.Controllers
             ViewBag.ReturnUrl = ReturnUrl;
             return View();
         }
-        
+
 
         [HttpPost]
         public async Task<IActionResult> Login(Login login, string? ReturnUrl)
@@ -33,7 +35,7 @@ namespace projekt1.Controllers
             ViewBag.ReturnUrl = ReturnUrl;
             if(ModelState.IsValid)
             {
-                var account = db.Users.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
+                var account = db.Accounts.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
                 if(account == null)
                 {
 
@@ -41,25 +43,20 @@ namespace projekt1.Controllers
                 }
                 else
                 {
-                    //var user = db.Users.FirstOrDefault(u => u.AccountId == account.AccountId);
                     var claims = new List<Claim>
                     {
                         new Claim(ClaimTypes.Name,account.Email),
                         new Claim(ClaimTypes.Role,"user")
                     };
-
-                    HttpContext.Session.SetString("Email", account.Email);
                     var claimsIdentity = new ClaimsIdentity(
                         claims, CookieAuthenticationDefaults.AuthenticationScheme);
                     var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
-                    HttpContext.Session.SetInt32("UserId", account.UserId);
-
-                    if (Url.IsLocalUrl(ReturnUrl))
+                    if(Url.IsLocalUrl(ReturnUrl))
                     {
-                        
                         return Redirect(ReturnUrl);
+
                     }
                     else
                     {
@@ -81,17 +78,19 @@ namespace projekt1.Controllers
         [HttpPost]
         public IActionResult Register(Register register)
         {
+          
 
-            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg,register.Email,register.Password);
+            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg);
+            Account account = new Account(register.Email, register.Password,"User");
 
 
             if(ModelState.IsValid)
             {
                 db.Users.Add(user);
+                db.Accounts.Add(account);
                 db.SaveChanges();
             }
             return View();
         }
-        
     }
 }

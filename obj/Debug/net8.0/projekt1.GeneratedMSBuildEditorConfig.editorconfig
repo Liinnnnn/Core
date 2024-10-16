@@ -9,75 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projekt1
 build_property.RootNamespace = projekt1
-build_property.ProjectDir = D:\TÀI LIỆU\Lập trình WEB\BTL\Anhhai98\
+build_property.ProjectDir = C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TÀI LIỆU\Lập trình WEB\BTL\Anhhai98
+build_property.MSBuildProjectDirectory = C:\Users\ngtua\OneDrive\Desktop\Web.netCore\Core
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Account/Login.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Account/Register.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Cinema/Index.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Cinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Film/Index.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Film/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Home/Index.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Price/Index.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Price/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Profile/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlLmNzaHRtbA==
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Setting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/Error.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/FooterAbout.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/FooterAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlckFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/FooterLink.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/FooterLink.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlckxpbmsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/NavMenu.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/NavMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdk1lbnUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/Social.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNvY2lhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/_ViewImports.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/_ViewStart.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/_Layout.cshtml]
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4bn2bgwmh1

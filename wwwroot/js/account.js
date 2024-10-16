@@ -40,5 +40,5 @@ function imgLoader() {
     if (file) {
         url.readAsDataURL(file)
     } else
-        img.src = "/assets/img/team/dinhngu.png"
+        img.src = "/assets/img/team/default.png"
 }
