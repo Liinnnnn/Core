@@ -1,11 +1,15 @@
 ﻿using System.Security.Claims;
+using System.Text;
+using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.VisualBasic.FileIO;
 using projekt1.Data;
 using projekt1.Models;
+
 
 namespace projekt1.Controllers
 {
@@ -74,6 +78,7 @@ namespace projekt1.Controllers
         [HttpPost]
         public IActionResult Register(Register register)
         {
+          
 
             User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg);
             Account account = new Account(register.Email, register.Password,"User");
