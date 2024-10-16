@@ -17,20 +17,25 @@ public partial class User
 
     public string? AvatarImg { get; set; }
 
-    public int? AccountId { get; set; }
+    public string Email { get; set; } = null!;
 
-    public virtual Account? Account { get; set; }
+    public string Password { get; set; } = null!;
+
+    public string? Type { get; set; }
 
     public virtual ICollection<Invoice> Invoices { get; set; } = new List<Invoice>();
 
     public User() { }
 
-    public User(string FullName, DateOnly Birthday, string Gender, string PhoneNumber, string AvatarImg)
+    public User(string FullName, DateOnly Birthday, string Gender, string PhoneNumber, string AvatarImg, string Email, string Password, string TypeAccount)
     {
         this.FullName = FullName;
         this.PhoneNumber = PhoneNumber;
         this.AvatarImg = AvatarImg;
         this.BirthDay = Birthday;
         this.Gender = Gender;
+        this.Password = Password;
+        this.Email = Email;
+        this.Type = TypeAccount;
     }
 }

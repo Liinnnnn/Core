@@ -1,4 +1,5 @@
 ﻿using System.Security.Claims;
+using System.Text;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
@@ -31,7 +32,7 @@ namespace projekt1.Controllers
             ViewBag.ReturnUrl = ReturnUrl;
             if(ModelState.IsValid)
             {
-                var account = db.Accounts.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
+                var account = db.Users.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
                 if(account == null)
                 {
 
@@ -68,21 +69,22 @@ namespace projekt1.Controllers
         [HttpGet]
         public IActionResult Register()
         {
-
             return View();
         }
         [HttpPost]
         public IActionResult Register(Register register)
         {
+            var utf8 = Encoding.UTF8;
+            byte[] nameBytes = utf8.GetBytes(register.FullName);
+            byte[] genderBytes = utf8.GetBytes(register.Gender);
 
-            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg);
-            Account account = new Account(register.Email, register.Password,"User");
 
+
+            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg, register.Email, register.Password, "User");
 
             if(ModelState.IsValid)
             {
                 db.Users.Add(user);
-                db.Accounts.Add(account);
                 db.SaveChanges();
             }
             return View();
