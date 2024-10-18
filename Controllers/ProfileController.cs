@@ -17,10 +17,6 @@ namespace projekt1.Controllers
         [Authorize]
         public IActionResult Profile()
         {
-            var email = HttpContext.Session.GetString("Email");
-
-            ViewBag.Email = email;
-
             var userId = HttpContext.Session.GetInt32("UserId");
             if (userId != null)
             {

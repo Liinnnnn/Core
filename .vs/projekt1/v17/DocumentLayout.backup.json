@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +50,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:41:11.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:38:08.011Z"
+              "WhenOpened": "2024-10-16T02:18:05.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,31 +84,32 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:21:47.337Z"
+              "WhenOpened": "2024-10-16T02:18:05.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
               "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIAxwBsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:54:57.115Z"
+              "WhenOpened": "2024-10-16T02:18:05.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Views\\Profile\\Profile.cshtml",
               "RelativeDocumentMoniker": "Views\\Profile\\Profile.cshtml",
               "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Views\\Profile\\Profile.cshtml",
               "RelativeToolTip": "Views\\Profile\\Profile.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T09:31:07.69Z",
+              "WhenOpened": "2024-10-16T02:18:05.225Z",
               "EditorCaption": ""
             }
           ]
