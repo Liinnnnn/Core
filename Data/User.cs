@@ -5,6 +5,19 @@ namespace projekt1.Data;
 
 public partial class User
 {
+    public User() { }
+    public User(string fullName, DateOnly birthDay, string? gender, string phoneNumber, string? avatarImg, string Email, string Password, string Type = "User")
+    {
+        FullName = fullName;
+        BirthDay = birthDay;
+        Gender = gender;
+        PhoneNumber = phoneNumber;
+        AvatarImg = avatarImg;
+        this.Type = Type;
+        this.Email = Email;
+        this.Password = Password;
+    }
+
     public int UserId { get; set; }
 
     public string FullName { get; set; } = null!;
@@ -17,20 +30,11 @@ public partial class User
 
     public string? AvatarImg { get; set; }
 
-    public int? AccountId { get; set; }
+    public string Email { get; set; } = null!;
 
-    public virtual Account? Account { get; set; }
+    public string Password { get; set; } = null!;
+
+    public string? Type { get; set; }
 
     public virtual ICollection<Invoice> Invoices { get; set; } = new List<Invoice>();
-
-    public User() { }
-
-    public User(string FullName, DateOnly Birthday, string Gender, string PhoneNumber, string AvatarImg)
-    {
-        this.FullName = FullName;
-        this.PhoneNumber = PhoneNumber;
-        this.AvatarImg = AvatarImg;
-        this.BirthDay = Birthday;
-        this.Gender = Gender;
-    }
 }

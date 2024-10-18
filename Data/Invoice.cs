@@ -5,6 +5,8 @@ namespace projekt1.Data;
 
 public partial class Invoice
 {
+
+    public Invoice() { }
     public int InvoiceId { get; set; }
 
     public DateTime PaymentDate { get; set; }
