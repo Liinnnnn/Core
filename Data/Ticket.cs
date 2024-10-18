@@ -5,7 +5,6 @@ namespace projekt1.Data;
 
 public partial class Ticket
 {
-    public Ticket() { }
     public int TicketId { get; set; }
 
     public string SeatNumber { get; set; } = null!;

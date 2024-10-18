@@ -5,7 +5,6 @@ namespace projekt1.Data;
 
 public partial class Showtime
 {
-    public Showtime() { }
     public int ShowtimeId { get; set; }
 
     public int? FilmId { get; set; }

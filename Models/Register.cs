@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace projekt1.Models
@@ -13,7 +13,7 @@ namespace projekt1.Models
         
         [Display(Name = "Ngày Sinh")]
         [DataType(DataType.Date,ErrorMessage = "Nhập Ngày Sinh")]
-        [Range(typeof(DateOnly),"1/1/1960","12/31/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 12/31/2006")]
+        //[Range(typeof(DateOnly),"1/1/1960","12/31/2006",ErrorMessage ="Xin vui lòng nhập ngày sinh trong khoảng 1/1/1960 đến 12/31/2006")]
         public DateOnly BirthDay { get; set; }
 
         [Display(Name = "Giới Tính")]
