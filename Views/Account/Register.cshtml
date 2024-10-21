@@ -52,7 +52,7 @@
 
                 <div class="col-md-6 mt-4 mb-4">
                     <label asp-for="@Model.AvatarImg" class="pb-2"></label>
-                    <input asp-for="@Model.AvatarImg" type ="file" id="img-field" accept=".jpg,.jpeg,.png" class="form-control">
+                    <input asp-for="@Model.AvatarImg" name="file" type ="file" id="img-field" accept=".jpg,.jpeg,.png" class="form-control">
                     <span asp-validation-for="@Model.AvatarImg" class="text-danger "></span>
                 </div>
 
@@ -60,9 +60,7 @@
                     <label asp-for="@Model.Email" class="pb-2"></label>
                     <input asp-for="@Model.Email" id="email-field" class="form-control">
                     <span asp-validation-for="@Model.Email" class="text-danger "></span>
-
                 </div>
-
 
                 <div class="col-md-6 mb-4">
                     <label asp-for = "@Model.Password" for="Password" class="pb-2"></label>

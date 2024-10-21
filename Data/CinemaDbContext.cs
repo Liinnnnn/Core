@@ -15,7 +15,6 @@ public partial class CinemaDbContext : DbContext
     {
     }
 
-    public virtual DbSet<Account> Accounts { get; set; }
 
     public virtual DbSet<Cinema> Cinemas { get; set; }
 
@@ -31,29 +30,10 @@ public partial class CinemaDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=THEDINH\\SQLEXPRESS;Initial Catalog=CinemaDB;Integrated Security=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-R0144NR\\SQLEXPRESS;Database=CinemaDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Account>(entity =>
-        {
-            entity.HasKey(e => e.AccountId).HasName("PK__Account__349DA586DF7B08B7");
-
-            entity.ToTable("Account");
-
-            entity.HasIndex(e => e.Email, "UQ__Account__A9D1053436319951").IsUnique();
-
-            entity.Property(e => e.AccountId).HasColumnName("AccountID");
-            entity.Property(e => e.Email)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.Password)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.Type)
-                .HasMaxLength(50)
-                .IsUnicode(false);
-        });
 
         modelBuilder.Entity<Cinema>(entity =>
         {
@@ -64,10 +44,10 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.CinemaId).HasColumnName("CinemaID");
             entity.Property(e => e.Address)
                 .HasMaxLength(255)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.CinemaName)
                 .HasMaxLength(255)
-                .IsUnicode(false);
+                .IsUnicode(true);
         });
 
         modelBuilder.Entity<Film>(entity =>
@@ -83,14 +63,14 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.Description).HasColumnType("text");
             entity.Property(e => e.Director)
                 .HasMaxLength(255)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.FilmImg).HasMaxLength(50);
             entity.Property(e => e.Language)
                 .HasMaxLength(50)
                 .IsUnicode(false);
             entity.Property(e => e.Name)
                 .HasMaxLength(255)
-                .IsUnicode(false);
+                .IsUnicode(true);
         });
 
         modelBuilder.Entity<Invoice>(entity =>
@@ -104,7 +84,7 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.PaymentDate).HasColumnType("datetime");
             entity.Property(e => e.PaymentMethod)
                 .HasMaxLength(50)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.TicketId).HasColumnName("TicketID");
             entity.Property(e => e.UserId).HasColumnName("UserID");
 
@@ -164,23 +144,28 @@ public partial class CinemaDbContext : DbContext
             entity.ToTable("User");
 
             entity.Property(e => e.UserId).HasColumnName("UserID");
-            entity.Property(e => e.AccountId).HasColumnName("AccountID");
             entity.Property(e => e.AvatarImg)
                 .HasMaxLength(255)
                 .IsUnicode(false);
             entity.Property(e => e.FullName)
                 .HasMaxLength(255)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.Gender)
                 .HasMaxLength(10)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.PhoneNumber)
                 .HasMaxLength(20)
                 .IsUnicode(false);
 
-            entity.HasOne(d => d.Account).WithMany(p => p.Users)
-                .HasForeignKey(d => d.AccountId)
-                .HasConstraintName("FK__User__AccountID__398D8EEE");
+            entity.Property(e => e.Email)
+                .HasMaxLength(255)
+                .IsUnicode(false);
+            entity.Property(e => e.Password)
+                .HasMaxLength(255)
+                .IsUnicode(false);
+            entity.Property(e => e.Type)
+                .HasMaxLength(50)
+                .IsUnicode(false);
         });
 
         OnModelCreatingPartial(modelBuilder);
