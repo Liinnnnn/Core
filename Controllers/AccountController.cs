@@ -1,15 +1,16 @@
 ﻿using System.Security.Claims;
 using System.Text;
-using System.Text.Unicode;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.VisualBasic.FileIO;
 using projekt1.Data;
 using projekt1.Models;
-
+using System.Web;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Win32;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace projekt1.Controllers
 {
@@ -33,10 +34,10 @@ namespace projekt1.Controllers
         public async Task<IActionResult> Login(Login login, string? ReturnUrl)
         {
             ViewBag.ReturnUrl = ReturnUrl;
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                var account = db.Accounts.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
-                if(account == null)
+                var account = db.Users.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
+                if (account == null)
                 {
 
                     ModelState.AddModelError("Lỗi", "Thông tin đăng nhập không chính xác");
@@ -53,7 +54,8 @@ namespace projekt1.Controllers
                     var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
-                    if(Url.IsLocalUrl(ReturnUrl))
+                    HttpContext.Session.SetInt32("UserId", account.UserId);
+                    if (Url.IsLocalUrl(ReturnUrl))
                     {
                         return Redirect(ReturnUrl);
 
@@ -62,34 +64,49 @@ namespace projekt1.Controllers
                     {
                         return Redirect("/Film");
                     }
-
                 }
-                
+
             }
             return View();
         }
-        
+
         [HttpGet]
         public IActionResult Register()
         {
-
             return View();
         }
         [HttpPost]
-        public IActionResult Register(Register register)
+        public async Task<IActionResult> Register(Register register, IFormFile file)
         {
-          
-
-            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg);
-            Account account = new Account(register.Email, register.Password,"User");
-
-
-            if(ModelState.IsValid)
+           
+            if (file != null && file.Length > 0)
             {
-                db.Users.Add(user);
-                db.Accounts.Add(account);
-                db.SaveChanges();
+                // Lưu file vào thư mục wwwroot/images
+                var filePath = Path.Combine("wwwroot/img/User", file.FileName);
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await file.CopyToAsync(stream);
+                }
+
+                // Lưu thông tin file vào cơ sở dữ liệu
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, filePath, register.Email, register.Password, "User");
+
+                if (ModelState.IsValid)
+                {
+                    db.Users.Add(user);
+                    await db.SaveChangesAsync();
+                }
             }
+            else
+            {
+                var defaultImg = Path.Combine("wwwroot/img/User", "defaultAvatar.jpg");
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, defaultImg, register.Email, register.Password, "User");
+
+                    db.Users.Add(user);
+                    await db.SaveChangesAsync();
+                
+            }
+            
             return View();
         }
     }
