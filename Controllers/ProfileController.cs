@@ -27,6 +27,7 @@ namespace projekt1.Controllers
                 }
             }
             return RedirectToAction("Login", "Account");
+
         }
 
     }
