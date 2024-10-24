@@ -5,7 +5,7 @@
         <h1 class="mb-2 mb-lg-0">Quản lí tài khoản</h1>
         <nav class="breadcrumbs">
             <ol>
-                <li><a href="index.html">Trang chủ</a></li>
+                <li><a asp-action="Index" class="active" asp-controller="Home">Trang chủ</a></li>
                 <li class="current">Quản lí tài khoản</li>
             </ol>
         </nav>
@@ -32,9 +32,11 @@
                         <div class="row gy-4">
                             @if(Model != null){
                                 <div class="account-avatar__container col-md-12" data-aos="fade-up" data-aos-delay="300">
-                                    <label for="file">
-                                        <img src="@Model.AvatarImg" class="account-avatar" alt="">
-                                    </label>
+                                    <div class="avatar-holder">
+                                        <label for="file">
+                                            <img src="@Model.AvatarImg" class="account-avatar" alt="">
+                                        </label>
+                                    </div>
                                     <div class="account--change-avatar">
                                         <label for="file">Đổi ảnh đại diện</label>
                                         <input asp-for="@Model.AvatarImg" type="file" name="file" id="file" onchange="imgLoader()">
