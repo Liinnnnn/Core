@@ -1636,7 +1636,7 @@ section,
 .cinema-slider .cinema-name {
     color: var(--accent-color);
     position: absolute;
-    top: 10px;
+    top: 10px;  
 }
 /* Account section */
 .account-avatar__container {

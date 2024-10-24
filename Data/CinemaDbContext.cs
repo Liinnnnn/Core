@@ -71,6 +71,11 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.Name)
                 .HasMaxLength(255)
                 .IsUnicode(true);
+            entity.Property(e => e.Filter)
+                .HasMaxLength(255)
+                .IsUnicode(true);
+            entity.Property(e => e.Status)
+                .HasColumnType("int");
         });
 
         modelBuilder.Entity<Invoice>(entity =>

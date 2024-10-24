@@ -48,13 +48,16 @@ namespace projekt1.Controllers
 
                     if (file != null && file.Length > 0)
                     {
-                        var filePath = Path.Combine("wwwroot/img/User", file.FileName);
-                        using (var stream = new FileStream(filePath, FileMode.Create))
+                        var filePath_root = Path.Combine("wwwroot/img/User", file.FileName);
+
+                        var filePath_db = Path.Combine("/img/User", file.FileName);
+
+                        using (var stream = new FileStream(filePath_root, FileMode.Create))
                         {
                             await file.CopyToAsync(stream);
                         }
 
-                        existingUser.AvatarImg = filePath;
+                        existingUser.AvatarImg = filePath_db;
                         
                     }
                     
