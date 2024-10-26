@@ -1,17 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\",
+  "WorkspaceRootPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|d:\\t\u00E0i li\u1EC7u\\l\u1EADp tr\u00ECnh web\\btl\\anhhai98\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\wwwroot\\lib\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:wwwroot\\lib\\aos\\aos.cjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\price\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\cinema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:data\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|c:\\users\\ngtua\\onedrive\\desktop\\web.netcore\\core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE8AC67-FE68-46E6-8760-C730F67058E8}|projekt1.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,15 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -41,43 +89,201 @@
               "Name": "ST:358036584:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwGEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T08:31:25.41Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
-              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "Controllers\\ProfileController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwDEAAAAVAAAAAAAAAA==",
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:57:07.703Z",
+              "WhenOpened": "2024-10-25T13:31:19.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Views\\Profile\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Profile\\Profile.cshtml",
-              "ToolTip": "D:\\T\u00C0I LI\u1EC6U\\L\u1EADp tr\u00ECnh WEB\\BTL\\Anhhai98\\Views\\Profile\\Profile.cshtml",
-              "RelativeToolTip": "Views\\Profile\\Profile.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:31:18.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T03:54:47.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T13:30:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:30:47.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cinema\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Cinema\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cinema\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:30:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Film\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Views\\Film\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:30:40.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:28:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T13:24:13.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAlwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:34:08.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwGEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:31:25.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:57:07.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Profile.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwDkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T03:54:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Price\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Views\\Price\\Index.cshtml",
+              "RelativeToolTip": "Views\\Price\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:30:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aos.cjs.js",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\aos\\aos.cjs.js",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\aos\\aos.cjs.js",
+              "RelativeToolTip": "wwwroot\\lib\\aos\\aos.cjs.js",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T13:30:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aos.cjs.js",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\aos\\aos.cjs.js",
+              "ViewState": "AgIAALsBAAAAAAAAAAAAwMQBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T13:31:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Data\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CinemaDbContext.cs",
+              "ToolTip": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\Data\\CinemaDbContext.cs",
+              "RelativeToolTip": "Data\\CinemaDbContext.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAQwJsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:25:23.336Z"
             }
           ]
         }
