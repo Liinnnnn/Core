@@ -23,5 +23,9 @@ public partial class Film
 
     public string? BannerImg { get; set; }
 
+    public string Filter {  get; set; }
+
+    public int Status { get; set; }
+
     public virtual ICollection<Showtime> Showtimes { get; set; } = new List<Showtime>();
 }

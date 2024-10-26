@@ -37,6 +37,26 @@
       "PackagePath": "staticwebassets\\img\\SP.png"
     },
     {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\Img1.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\Img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\cccd.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\cccd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\chândung.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\chândung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\defaultAvatar.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\defaultAvatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\hai1.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\hai1.jpg"
+    },
+    {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\about-img.svg",
       "PackagePath": "staticwebassets\\img\\about-img.svg"
     },
@@ -87,6 +107,10 @@
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\clients\\client-8.png",
       "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\defaultAvatar.jpg",
+      "PackagePath": "staticwebassets\\img\\defaultAvatar.jpg"
     },
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\favicon.png",
