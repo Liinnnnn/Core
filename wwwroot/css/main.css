@@ -1721,7 +1721,7 @@ section,
         color: var(--accent-color);
     }
 
-.notification {
+/*.notification {
     display: block;
     margin: 0 0 4px 0;
     border-radius: 4px;
@@ -1749,3 +1749,4 @@ section,
     .noti-warn:hover p, .noti-warn:hover h5 {
         color: var(--accent-color);
     }
+*/

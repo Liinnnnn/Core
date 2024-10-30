@@ -38,7 +38,7 @@ namespace projekt1.Models
         [Required(ErrorMessage = "*")]
         [MaxLength(20, ErrorMessage = "Tối đa 20 kí tự!")]
         [DataType(DataType.Password)]
-        [RegularExpression(@"^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*\W).{8,}$", ErrorMessage = "Mật khẩu phải có ít nhất 8 ký tự, có chữ hoa, chữ thường, số và kí tự đặc biệt")]
+        [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,12}$", ErrorMessage = "Mật khẩu phải có ít nhất 8 ký tự, có chữ hoa, chữ thường, số và kí tự đặc biệt")]
         public string Password { get; set; }
 
         [Required(ErrorMessage = "*")]

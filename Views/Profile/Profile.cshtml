@@ -21,7 +21,7 @@
                
                 <div class="account-menu" data-aos="fade-up" data-aos-delay="300">
                     <a href="#" class="active account-setting">Thông tin tài khoản</a>
-                    <a href="#" class="account-setting">Thông báo</a>
+                    <a href="#" class="account-setting">Đổi mật khẩu </a>
                     <a href="" class="logout">Đăng xuất </a>
                 </div>
             </div>
@@ -72,14 +72,24 @@
                     </form>
                 </div>
                 <div class="account-details px-4 d-none acc-notification" data-aos-delay="300">
-                    <div class="notification noti-inform p-3">
-                        <h5>Thông báo !</h5>
-                        <p class="message">Đã đặt vé thành công , mời quý khách đến quầy để nhận vé</p>
-                    </div>
-                    <a class="notification noti-warn p-3" href="film-details.html">
-                        <h5>Hot<i class="bi bi-fire"></i></h5>
-                        <p class="message">Phim mới đã đến lên ngay kẻo muộn</p>
-                    </a>
+                    <form action="Profile" enctype="multipart/form-data" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-md-12">
+                                <label for="password-field" class="pb-2">Nhập mật khẩu</label>
+                                <input type="password" name="password" id="password-field" class="form-control" required="">
+                            </div>
+
+                            <div class="col-md-12">
+                                <label for="confirm-field" class="pb-2">Xác nhận mật khẩu</label>
+                                <input type="password" name="confirm" id="confirm-field" class="form-control" required="">
+                            </div>
+
+                            <div class="col-md-3 offset-8 offset-lg-8">
+                                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Cập nhật</button>
+                            </div>
+
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
