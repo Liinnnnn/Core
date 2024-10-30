@@ -5,7 +5,7 @@ namespace projekt1.Data;
 
 public partial class Film
 {
-    public int FilmID { get; set; }
+    public int FilmId { get; set; }
 
     public string Name { get; set; } = null!;
 

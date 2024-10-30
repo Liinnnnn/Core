@@ -13,7 +13,7 @@
 <p>Số ghế: @Model.SeatNumber</p>
 <p>Giá: @Model.Price</p>
 <p>Phim: @Model.Name</p>
-<p>Giờ chiếu: @Model.Showtime1</p>
+<p>Giờ chiếu: @Model.ShowtimeDate</p>
 <p>Rạp: @Model.CinemaName</p>
 <form asp-action="CreateInvoice" method="post">
     <input type="hidden" name="ticketId" value="@Model.TicketId" />

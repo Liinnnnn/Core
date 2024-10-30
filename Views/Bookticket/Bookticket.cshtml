@@ -9,18 +9,18 @@
 }
 <h2>Đặt vé - @Model.Name</h2>
 <div>
-    <img src="@Model.FilmImg" alt="@Model.Name" style="width: 200px; height: auto;" />
+    <img src="@Model.BannerImg" alt="@Model.Name" style="width: 200px; height: auto;" />
     <p>@Model.Description</p>
 </div>
 <form asp-action="BookTicket" method="post">
-    <input type="hidden" name="filmId" value="@Model.FilmID" />
+    <input type="hidden" name="filmId" value="@Model.FilmId" />
     <!-- Chọn Giờ Chiếu -->
     <div class="form-group">
         <label>Giờ Chiếu:</label>
         <select name="ShowtimeId" class="form-control" required>
             @foreach (var showtime in ViewBag.Showtimes)
             {
-                <option value="@showtime.ShowtimeId">@showtime.Showtime1</option>
+                <option value="@showtime.ShowtimeId">@showtime.ShowTimeHour</option>
             }
         </select>
     </div>

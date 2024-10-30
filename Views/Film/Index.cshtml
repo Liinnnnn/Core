@@ -1,8 +1,9 @@
-﻿@*
+﻿﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+@model projekt1.Data.Film
 @{
-    ViewData["Title"] = "Phim";
+    ViewData["Title"] = "Phim hot";
 }
 <script src="~/js/services.js"></script>
 <!-- Page Title -->
@@ -29,7 +30,6 @@
                     <a href="#" class="active">Thông tin phim</a>
                     <a href="#">Đặt Vé</a>
                     <a href="#">Lịch Chiếu</a>
-                    <a href="#">Tin tức phim </a>
                 </div>
 
                 <h4>Mua vé , đặt chỗ trực tuyến</h4>
@@ -38,18 +38,21 @@
 
             <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
                 <div class="services-item" data-aos="fade-up" data-aos-delay="300">
-                    <img src="/img/333.png" alt="" class="img-fluid services-img">
-                    <h3>Tấm</h3>
-                    <ul>
-                        <li><i class="bi bi-calendar"></i><span>Năm phát hành : 2024</span></li>
-                        <li><i class="bi bi-person-square"></i> <span>Đạo diễn : Trần Hữu Tấn</span></li>
-                        <li><i class="bi bi-globe"></i><span>Ngôn ngữ : Tiếng Việt</span></li>
-                        <li><i class="bi bi-clock"></i><span>Thời lượng : 121 phút</span></li>
-                        <li><i class="bi bi-info-circle"></i><span>Mô tả : </span></li>
-                    </ul>
-                    <p>
-                        Câu chuyện phim là dị bản kinh dị đẫm máu lấy cảm hứng từ truyện cổ tích nổi tiếng Tấm Cám, nội dung chính của phim xoay quanh Cám - em gái cùng cha khác mẹ của Tấm đồng thời sẽ có nhiều nhân vật và chi tiết sáng tạo, gợi cảm giác vừa lạ vừa quen cho khán giả..
-                    </p>
+                    @{
+                        <img src="@Model.BannerImg" alt="@Model.Name" class="img-fluid services-img">
+                        <h3>@Model.Name</h3>
+                        <ul>
+                            <li><i class="bi bi-calendar"></i><span>Năm phát hành : @Model.Year</span></li>
+                            <li><i class="bi bi-person-square"></i> <span>Đạo diễn : @Model.Director</span></li>
+                            <li><i class="bi bi-globe"></i><span>Ngôn ngữ : @Model.Language</span></li>
+                            <li><i class="bi bi-clock"></i><span>Thời lượng : @Model.Duration phút </span></li>
+                            <li><i class="bi bi-info-circle"></i><span>Mô tả : </span></li>
+                        </ul>
+                        <p>
+                            @Model.Description
+                        </p>
+                    }
+
                 </div>
                 <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
                     <form action="starter-page.html" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
@@ -93,145 +96,28 @@
                 </div>
                 <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
                     <div class="item-holders d-flex row">
-                        <div class="service-time col-lg-3 col-md-6">
-                            <h4 class="text-center">T6 04/10 <i class="bi bi-calendar-week"></i></h4>
-                            <div class="time-table">
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        12:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">25 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        15:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">60 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        18:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">20 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        21:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">100 chỗ trống</p>
+                        @foreach (var group in Model.Showtimes.GroupBy(s => s.ShowtimeDate.GetValueOrDefault().Date))
+                        {
+                            <div class="service-time col-lg-4 col-md-4">
+                                <h4 class="text-center">
+                                    @group.Key.ToString("dddd dd/MM")<i class="bi bi-calendar-week"></i>
+                                </h4>
+                                <div class="time-table">
+                                    @foreach (var showtime in group)
+                                    {
+                                        <div class="time-items">
+                                            <p class="time text-center">
+                                                @showtime.ShowTimeHour <i class="bi bi-clock"></i>
+                                            </p>
+                                            <p class="text-center">@showtime.Capacity chỗ trống</p>
+                                        </div>
+                                    }
                                 </div>
                             </div>
-                        </div>
-                        <div class="service-time col-lg-3 col-md-6">
-                            <h4 class="text-center">T7 05/10 <i class="bi bi-flag"></i></h4>
-                            <div class="time-table">
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        12:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">5 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        15:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center text-danger">0 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        18:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">10 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        21:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">40 chỗ trống</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="service-time col-lg-3 col-md-6">
-                            <h4 class="text-center">CN 06/10 <i class="bi bi-flag"></i></h4>
-                            <div class="time-table">
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        12:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center text-danger">0 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        15:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center text-danger">0 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        18:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center text-danger">0 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        21:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">30 chỗ trống</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="service-time col-lg-3 col-md-6">
-                            <h4 class="text-center">T2 07/10 <i class="bi bi-calendar-week"></i></h4>
-                            <div class="time-table">
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        12:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">100 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        15:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">100 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        18:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">100 chỗ trống</p>
-                                </div>
-                                <div class="time-items">
-                                    <p class="time text-center">
-                                        21:00 <i class="bi bi-clock"></i>
-                                    </p>
-                                    <p class="text-center">100 chỗ trống</p>
-                                </div>
-                            </div>
-                        </div>
+                        }
+                    </div>
+                </div>
 
-                    </div>
-                </div>
-                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                    <div class="items-holder">
-                        <div class="service-news">
-                            <h4>Cám </h4>
-                            <p>Dị bản của câu chuyện cổ tích Tấm cám trong tuổi thơ của nhiều người , được đạo diễn bởi Trần Hữu Tuấn</p>
-                        </div>
-                        <div class="service-news">
-                            <h4>Joker : Điên có đôi </h4>
-                            <p>Nơi Joker (Joanquin Phoenix thủ vai) tìm được tình yêu của đời mình</p>
-                        </div>
-                        <div class="service-news">
-                            <h4>Shin Cậu bé bút chì : Movie 31</h4>
-                            <p>Tiếp tục cuộc hành trình đầy vui nhộn của Shin </p>
-                        </div>
-                        <div class="service-news">
-                            <h4>Avenger: Endgame</h4>
-                            <p>Sống lại hồi ức về câu chuyện từng phá đảo phòng vé một thời</p>
-                        </div>
-                    </div>
-                </div>
             </div>
 
         </div>

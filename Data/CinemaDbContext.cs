@@ -29,7 +29,6 @@ public partial class CinemaDbContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Server=LINHLENOVO\\SQLEXPRESS;Database=CinemaDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -52,11 +51,11 @@ public partial class CinemaDbContext : DbContext
 
         modelBuilder.Entity<Film>(entity =>
         {
-            entity.HasKey(e => e.FilmID).HasName("PK__Film__6D1D229CAF751CFE");
+            entity.HasKey(e => e.FilmId).HasName("PK__Film__6D1D229CAF751CFE");
 
             entity.ToTable("Film");
 
-            entity.Property(e => e.FilmID).HasColumnName("FilmID");
+            entity.Property(e => e.FilmId).HasColumnName("FilmID");
             entity.Property(e => e.BannerImg)
                 .HasMaxLength(255)
                 .IsUnicode(false);
@@ -110,9 +109,10 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.ShowtimeId).HasColumnName("ShowtimeID");
             entity.Property(e => e.CinemaId).HasColumnName("CinemaID");
             entity.Property(e => e.FilmID).HasColumnName("FilmID");
-            entity.Property(e => e.Showtime1)
+            entity.Property(e => e.ShowTimeHour).HasColumnName("ShowTimeHour");
+            entity.Property(e => e.ShowtimeDate)
                 .HasColumnType("datetime")
-                .HasColumnName("Showtime");
+                .HasColumnName("ShowtimeDate");
 
             entity.HasOne(d => d.Cinema).WithMany(p => p.Showtimes)
                 .HasForeignKey(d => d.CinemaId)

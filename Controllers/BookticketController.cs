@@ -14,7 +14,7 @@ namespace projekt1.Controllers
 
         public IActionResult BookTicket(int filmId)
         {
-            var film = db.Films.FirstOrDefault(f => f.FilmID == filmId);
+            var film = db.Films.FirstOrDefault(f => f.FilmId == filmId);
             if (film == null) return NotFound();
 
             // Lấy danh sách showtimes cho phim
@@ -32,7 +32,7 @@ namespace projekt1.Controllers
             if (showtime == null) return NotFound("Showtime không tồn tại cho phim này.");
 
             ticket.ShowtimeId = showtime.ShowtimeId;
-            ticket.Price = 40000;
+            ticket.Price = 45000;
             db.Tickets.Add(ticket);
             db.SaveChanges();
 
@@ -50,7 +50,7 @@ namespace projekt1.Controllers
                     t.SeatNumber,
                     t.Price,
                     t.Showtime.Film.Name,
-                    t.Showtime.Showtime1,
+                    t.Showtime.ShowtimeDate,
                     t.Showtime.Cinema.CinemaName,
                     Gmail = User.Identity.Name // Lấy tên người dùng
                 })
