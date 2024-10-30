@@ -9,15 +9,15 @@ namespace projekt1.Controllers
     public class HomeController : Controller
     {
         private readonly CinemaDbContext db;
-
+        
         public HomeController(CinemaDbContext context)
         {
             db = context;
         }
-
-        public IActionResult Index()
+      
+        public IActionResult Index()    
         {
-            var films = db.Films.ToList();
+            var films = db.Films.ToList();   
             var fiml1 = db.Films.FirstOrDefault();
             return View(films);
         }

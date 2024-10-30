@@ -11,5 +11,5 @@ public partial class Cinema
 
     public string? Address { get; set; }
 
-    public virtual ICollection<Showtimes> Showtimes { get; set; } = new List<Showtimes>();
+    public virtual ICollection<Showtime> Showtimes { get; set; } = new List<Showtime>();
 }

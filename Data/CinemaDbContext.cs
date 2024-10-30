@@ -22,7 +22,7 @@ public partial class CinemaDbContext : DbContext
 
     public virtual DbSet<Invoice> Invoices { get; set; }
 
-    public virtual DbSet<Showtimes> Showtimes { get; set; }
+    public virtual DbSet<Showtime> Showtimes { get; set; }
 
     public virtual DbSet<Ticket> Tickets { get; set; }
 
@@ -30,7 +30,7 @@ public partial class CinemaDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=DARK\\MSSQLSERVER02;Database=CinemaDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-R0144NR\\SQLEXPRESS;Database=CinemaDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -52,11 +52,11 @@ public partial class CinemaDbContext : DbContext
 
         modelBuilder.Entity<Film>(entity =>
         {
-            entity.HasKey(e => e.FilmID).HasName("PK__Film__6D1D229CAF751CFE");
+            entity.HasKey(e => e.FilmId).HasName("PK__Film__6D1D229CAF751CFE");
 
             entity.ToTable("Film");
 
-            entity.Property(e => e.FilmID).HasColumnName("FilmID");
+            entity.Property(e => e.FilmId).HasColumnName("FilmID");
             entity.Property(e => e.BannerImg)
                 .HasMaxLength(255)
                 .IsUnicode(false);
@@ -71,10 +71,11 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.Name)
                 .HasMaxLength(255)
                 .IsUnicode(true);
-            entity.Property(e => e.suatChieu)
+            entity.Property(e => e.Filter)
                 .HasMaxLength(255)
                 .IsUnicode(true);
-            
+            entity.Property(e => e.Status)
+                .HasColumnType("int");
         });
 
         modelBuilder.Entity<Invoice>(entity =>
@@ -101,15 +102,15 @@ public partial class CinemaDbContext : DbContext
                 .HasConstraintName("FK__Invoice__UserID__47DBAE45");
         });
 
-        modelBuilder.Entity<Showtimes>(entity =>
+        modelBuilder.Entity<Showtime>(entity =>
         {
             entity.HasKey(e => e.ShowtimeId).HasName("PK__Showtime__32D31FC034887DD7");
 
-            entity.ToTable("Showtimes");
+            entity.ToTable("Showtime");
 
             entity.Property(e => e.ShowtimeId).HasColumnName("ShowtimeID");
             entity.Property(e => e.CinemaId).HasColumnName("CinemaID");
-            entity.Property(e => e.FilmID).HasColumnName("FilmID");
+            entity.Property(e => e.FilmId).HasColumnName("FilmID");
             entity.Property(e => e.Showtime1)
                 .HasColumnType("datetime")
                 .HasColumnName("Showtime");
@@ -119,7 +120,7 @@ public partial class CinemaDbContext : DbContext
                 .HasConstraintName("FK__Showtime__Cinema__412EB0B6");
 
             entity.HasOne(d => d.Film).WithMany(p => p.Showtimes)
-                .HasForeignKey(d => d.FilmID)
+                .HasForeignKey(d => d.FilmId)
                 .HasConstraintName("FK__Showtime__FilmID__403A8C7D");
         });
 
