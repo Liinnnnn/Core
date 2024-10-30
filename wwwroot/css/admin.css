@@ -1,0 +1,23 @@
+﻿
+.cinema-select {
+    padding: 4px 0;
+    margin: 0 0 8px;
+}
+
+.form-edit {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.btn-edit {
+    padding: 4px 8px;
+    margin: 0 8px 0 0;
+    border: 1px solid #000;
+    outline: none;
+}
+
+    .btn-edit:hover {
+        opacity: 0.8;
+        cursor: pointer;
+    }

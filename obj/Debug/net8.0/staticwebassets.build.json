@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lshP3subAXz57kzvMBtxsL46KKrLZI/tOh6Av+beEWg=",
+  "Hash": "OZ8XRLTnna0mSyRu75t4dTadTz3Syeuy/VG3eMSHY54=",
   "Source": "projekt1",
   "BasePath": "_content/projekt1",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projekt1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\admin.css",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+      "BasePath": "_content/projekt1",
+      "RelativePath": "css/admin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
     },
     {
       "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\css\\main.css",
@@ -1060,6 +1079,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\account.js"
+    },
+    {
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\admin.js",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+      "BasePath": "_content/projekt1",
+      "RelativePath": "js/admin.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\admin.js"
     },
     {
       "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\js\\main.js",
