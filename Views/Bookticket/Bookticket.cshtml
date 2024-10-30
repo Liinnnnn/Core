@@ -1,0 +1,66 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model projekt1.Data.Film
+@{
+    ViewData["Title"] = "Đặt vé cho phim";
+}
+<h2>Đặt vé - @Model.Name</h2>
+<div>
+    <img src="@Model.FilmImg" alt="@Model.Name" style="width: 200px; height: auto;" />
+    <p>@Model.Description</p>
+</div>
+<form asp-action="BookTicket" method="post">
+    <input type="hidden" name="filmId" value="@Model.FilmId" />
+    <!-- Chọn Giờ Chiếu -->
+    <div class="form-group">
+        <label>Giờ Chiếu:</label>
+        <select name="ShowtimeId" class="form-control" required>
+            @foreach (var showtime in ViewBag.Showtimes)
+            {
+                <option value="@showtime.ShowtimeId">@showtime.Showtime1</option>
+            }
+        </select>
+    </div>
+    <!-- Chọn Số Ghế (Ma Trận) -->
+    <div class="form-group">
+        <label>Chọn Số Ghế:</label>
+        <div class="seat-matrix">
+            @for (char row = 'A'; row <= 'D'; row++)
+            {
+                <div class="seat-row">
+                    @for (int col = 1; col <= 10; col++)
+                    {
+                        var seatNumber = $"{row}{col}";
+                        <label>
+                            <input type="radio" name="SeatNumber" value="@seatNumber" required />
+                            @seatNumber
+                        </label>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+    <!-- Nhập Giá Vé -->
+    <div class="form-group">
+
+        <label>Giá vé: 40000 vnđ</label>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Đặt vé</button>
+</form>
+<style>
+    .seat-matrix {
+        display: grid;
+        grid-template-columns: repeat(10, auto);
+        gap: 5px;
+    }
+    .seat-row {
+        display: flex;
+    }
+    label {
+        margin: 2px;
+    }
+</style>

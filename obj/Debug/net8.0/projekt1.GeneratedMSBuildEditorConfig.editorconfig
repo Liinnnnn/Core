@@ -30,6 +30,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Bookticket/Bookticket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3RpY2tldFxCb29rdGlja2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Bookticket/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3RpY2tldFxJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Bookticket/InvoiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3RpY2tldFxJbnZvaWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Cinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,10 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Price/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ngtua/OneDrive/Desktop/Web.netCore/Core/Views/Profile/Profile.cshtml]
