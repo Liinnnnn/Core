@@ -15,7 +15,6 @@ namespace projekt1.Controllers
         {
             db = context;
         }
-        
 
         [HttpGet]       
         public IActionResult Profile()

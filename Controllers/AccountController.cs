@@ -7,10 +7,6 @@ using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using projekt1.Data;
 using projekt1.Models;
-using System.Web;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Win32;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace projekt1.Controllers
 {
@@ -69,6 +65,12 @@ namespace projekt1.Controllers
             }
             return View();
         }
+        //[HttpPost]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "Home");
+        }
 
         [HttpGet]
         public IActionResult Register()
@@ -76,44 +78,22 @@ namespace projekt1.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Register(Register register, IFormFile file)
+        public IActionResult Register(Register register)
         {
-           
-            if (file != null && file.Length > 0)
-            {
-                // Lưu file vào thư mục wwwroot/images
-                var filePath_root = Path.Combine("wwwroot/img/User", file.FileName);
-                var filePath_db = Path.Combine("/img/User", file.FileName);
-                using (var stream = new FileStream(filePath_root, FileMode.Create))
-                {
-                    await file.CopyToAsync(stream);
-                }
-                
-                // Lưu thông tin file vào cơ sở dữ liệu
-                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, filePath_db, register.Email, register.Password, "User");
 
-                if (ModelState.IsValid)
+            var check = db.Users.FirstOrDefault(u => u.Email == register.Email);
+            if(check == null)
+            {
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg, register.Email, register.Password, "User");
+
+                if(ModelState.IsValid)
                 {
                     db.Users.Add(user);
-                    await db.SaveChangesAsync();
+                    db.SaveChanges();
                 }
+                return View("Login");
             }
-            else
-            {
-                var defaultImg = Path.Combine("/img/User", "defaultAvatar.jpg");
-                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, defaultImg, register.Email, register.Password, "User");
-
-                db.Users.Add(user);
-                await db.SaveChangesAsync();
-                
-            }
-            
             return View();
-        }
-        public async Task<IActionResult> Logout()
-        {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Index", "Home");
         }
     }
 }
