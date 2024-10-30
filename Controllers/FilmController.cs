@@ -5,7 +5,7 @@ namespace projekt1.Controllers
 {
     public class FilmController : Controller
     {
-        [Authorize]
+        //[Authorize]
         public IActionResult Index()
         {
             return View();

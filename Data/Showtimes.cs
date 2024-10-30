@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 namespace projekt1.Data;
 
-public partial class Showtime
+public partial class Showtimes
 {
     public int ShowtimeId { get; set; }
 
-    public int? FilmId { get; set; }
+    public int? FilmID { get; set; }
 
     public int? CinemaId { get; set; }
 

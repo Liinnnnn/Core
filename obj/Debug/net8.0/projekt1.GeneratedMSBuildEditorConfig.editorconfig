@@ -9,75 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projekt1
 build_property.RootNamespace = projekt1
-build_property.ProjectDir = D:\TÀI LIỆU\Lập trình WEB\BTL\Anhhai98\
+build_property.ProjectDir = D:\WEBBBBBB\Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\TÀI LIỆU\Lập trình WEB\BTL\Anhhai98
+build_property.MSBuildProjectDirectory = D:\WEBBBBBB\Core
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Account/Login.cshtml]
+[D:/WEBBBBBB/Core/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Account/Register.cshtml]
+[D:/WEBBBBBB/Core/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Cinema/Index.cshtml]
+[D:/WEBBBBBB/Core/Views/BookTicket/BookTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RpY2tldFxCb29rVGlja2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WEBBBBBB/Core/Views/BookTicket/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RpY2tldFxJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WEBBBBBB/Core/Views/BookTicket/InvoiceDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1RpY2tldFxJbnZvaWNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WEBBBBBB/Core/Views/Cinema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Film/Index.cshtml]
+[D:/WEBBBBBB/Core/Views/Film/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Home/Index.cshtml]
+[D:/WEBBBBBB/Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Price/Index.cshtml]
+[D:/WEBBBBBB/Core/Views/Price/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Profile/Profile.cshtml]
+[D:/WEBBBBBB/Core/Views/Profile/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/Error.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/FooterAbout.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/FooterAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlckFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/FooterLink.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/FooterLink.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlckxpbmsuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/NavMenu.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/NavMenu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdk1lbnUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/Social.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/Social.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNvY2lhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/_ViewImports.cshtml]
+[D:/WEBBBBBB/Core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/_ViewStart.cshtml]
+[D:/WEBBBBBB/Core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/TÀI LIỆU/Lập trình WEB/BTL/Anhhai98/Views/Shared/_Layout.cshtml]
+[D:/WEBBBBBB/Core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4bn2bgwmh1

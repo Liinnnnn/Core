@@ -4106,19 +4106,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADM\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj",
+      "projectUniqueName": "D:\\WEBBBBBB\\Core\\projekt1.csproj",
       "projectName": "projekt1",
-      "projectPath": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj",
-      "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-      "outputPath": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\obj\\",
+      "projectPath": "D:\\WEBBBBBB\\Core\\projekt1.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\WEBBBBBB\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
