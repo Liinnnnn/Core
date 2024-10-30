@@ -33,6 +33,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
 
 
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -71,6 +72,7 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSession();
+
 
 app.MapControllerRoute(
     name: "default",

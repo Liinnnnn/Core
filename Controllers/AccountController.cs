@@ -30,10 +30,10 @@ namespace projekt1.Controllers
         public async Task<IActionResult> Login(Login login, string? ReturnUrl)
         {
             ViewBag.ReturnUrl = ReturnUrl;
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 var account = db.Users.FirstOrDefault(a => a.Email == login.Email && a.Password == login.Password);
-                if(account == null)
+                if (account == null)
                 {
 
                     ModelState.AddModelError("Lỗi", "Thông tin đăng nhập không chính xác");
@@ -50,22 +50,28 @@ namespace projekt1.Controllers
                     var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
-                    if(Url.IsLocalUrl(ReturnUrl))
+                    HttpContext.Session.SetInt32("UserId", account.UserId);
+                    if (Url.IsLocalUrl(ReturnUrl))
                     {
                         return Redirect(ReturnUrl);
 
                     }
                     else
                     {
-                        return Redirect("/Film");
+                        return Redirect("/Home");
                     }
-
                 }
-                
+
             }
             return View();
         }
-        
+        //[HttpPost]
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "Home");
+        }
+
         [HttpGet]
         public IActionResult Register()
         {
@@ -74,18 +80,18 @@ namespace projekt1.Controllers
         [HttpPost]
         public IActionResult Register(Register register)
         {
-            var utf8 = Encoding.UTF8;
-            byte[] nameBytes = utf8.GetBytes(register.FullName);
-            byte[] genderBytes = utf8.GetBytes(register.Gender);
 
-
-
-            User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg, register.Email, register.Password, "User");
-
-            if(ModelState.IsValid)
+            var check = db.Users.FirstOrDefault(u => u.Email == register.Email);
+            if(check == null)
             {
-                db.Users.Add(user);
-                db.SaveChanges();
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg, register.Email, register.Password, "User");
+
+                if(ModelState.IsValid)
+                {
+                    db.Users.Add(user);
+                    db.SaveChanges();
+                }
+                return View("Login");
             }
             return View();
         }
