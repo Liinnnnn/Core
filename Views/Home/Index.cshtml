@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Trang chủ";
+    ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
@@ -73,7 +73,7 @@
                 <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
                     <div class="service-item position-relative">
                         <div class="icon"><i class="bi bi-flag"></i></div>
-                        <h4>Ngày lễ</h4>
+                        <h4>Ngày lễ</a></h4>
                         <p>Trẻ em : 50.000đ</p>
                         <p>Học sinh - sinh viên : 75.000đ</p>
                         <p>Người lớn : 95.000đ</p>
@@ -83,7 +83,7 @@
                 <div class=" col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
                     <div class="service-item position-relative">
                         <div class="icon"><i class="bi bi-calendar-week"></i></div>
-                        <h4>Ngày thường</h4>
+                        <h4>Ngày thường</a></h4>
                         <p>Trẻ em : 40.000đ</p>
                         <p>Học sinh - sinh viên : 60.000đ</p>
                         <p>Người lớn : 85.000đ</p>
@@ -94,7 +94,7 @@
                 <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
                     <div class="service-item position-relative">
                         <div class="icon"><i class="bi bi-award"></i></div>
-                        <h4>Suất chiếu sớm</h4>
+                        <h4>Suất chiếu sớm</a></h4>
                         <p>Trẻ em : 75.000đ</p>
                         <p>Học sinh - sinh viên : 100.000đ</p>
                         <p>Người lớn : 125.000đ</p>
@@ -112,8 +112,8 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <h2>Phim</h2>
-            <p><i class="bi bi-balloon-fill"></i> Mùa phim thu đông T10 - T12 <i class="bi bi-balloon-fill"></i> </p>
+            <h2>Film</h2>
+            <p><i class="bi bi-balloon-fill"></i> Mùa Film thu đông T10 - T12 <i class="bi bi-balloon-fill"></i> </p>
         </div>
         <!-- End Section Title -->
 
@@ -123,12 +123,12 @@
 
                 <ul class="film-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
                     <li data-filter="*" class="filter-active">Tất cả phim</li>
-                    <li data-filter=".filter-ongoing">Phim đang chiếu</li>
-                    <li data-filter=".filter-preview">Phim sắp chiếu</li>
-                    <li data-filter=".filter-special">Suất đặc biệt</li>
+                    <li data-filter=".filter-Showing">Phim đang chiếu</li>
+                    <li data-filter=".filter-Preview">Phim sắp chiếu</li>
+                    <li data-filter=".filter-Special">Suất đặc biệt</li>
                 </ul>
                 <!-- End film Filters -->
-            </div>
+
 
             <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
@@ -143,10 +143,12 @@
                                     <h4>@s.suatChieu</h4>
                                     <p>@s.Description</p>
                                     <a href="@s.FilmImg"  title="@s.Name" data-gallery="film-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                    <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@s.FilmId" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                                    <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@s.FilmID" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                 </div>
                             </div>
-                        </div><!-- End film Container -->
+                        </div>
+                    }
+                </div><!-- End film Container -->
 
             </div>
 

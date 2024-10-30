@@ -5,7 +5,7 @@ namespace projekt1.Data;
 
 public partial class Film
 {
-    public int FilmId { get; set; }
+    public int FilmID { get; set; }
 
     public string Name { get; set; } = null!;
 
@@ -23,9 +23,9 @@ public partial class Film
 
     public string? BannerImg { get; set; }
 
-    public string Filter {  get; set; }
+    public string suatChieu {  get; set; }
 
-    public int Status { get; set; }
+    
 
-    public virtual ICollection<Showtime> Showtimes { get; set; } = new List<Showtime>();
+    public virtual ICollection<Showtimes> Showtimes { get; set; } = new List<Showtimes>();
 }
