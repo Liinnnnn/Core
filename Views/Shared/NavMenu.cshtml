@@ -1,8 +1,5 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿
+
 <ul>
     <li><a asp-action="Index" asp-controller="Home">Trang chủ</a></li>
     <li><a asp-action="Index" asp-controller="Cinema">Rạp</a></li>
@@ -16,7 +13,7 @@
     @if(User.Identity.IsAuthenticated == true)
     {
         <li class="dropdown">
-            <img src="~/img/defaultAvatar.jpg" class="account-img" alt="" srcset="">
+            <img src="\img\ProfilePicture2.png" class="account-img" alt="" srcset="">
             <ul>
                 <li><a asp-action="Profile" asp-controller="Profile">Tài khoản</a></li>
                 <li><a asp-controller="Account" asp-action="Logout" method="get">Đăng xuất</a></li>

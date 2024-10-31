@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj": {}
+    "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj": {
+    "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
+        "projectUniqueName": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj",
         "projectName": "projekt1",
-        "projectPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\projekt1.csproj",
-        "packagesPath": "C:\\Users\\ngtua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\obj\\",
+        "projectPath": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\projekt1.csproj",
+        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
+        "outputPath": "D:\\TÀI LIỆU\\Lập trình WEB\\BTL\\Anhhai98\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ngtua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

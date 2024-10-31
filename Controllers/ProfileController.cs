@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Win32;
 using projekt1.Data;
 using projekt1.Models;
+using Microsoft.AspNetCore.Http;
 
 
 namespace projekt1.Controllers
@@ -23,6 +24,7 @@ namespace projekt1.Controllers
             if (userId != null)
             {
                 var user = db.Users.FirstOrDefault(u => u.UserId == userId);
+                
                 if (user != null)
                 {
                     return View(user);
@@ -70,5 +72,12 @@ namespace projekt1.Controllers
 
             return View();
         }
+
+        public IActionResult changePassword()
+        {
+            return View();
+        }
+
+        
     }
 }
