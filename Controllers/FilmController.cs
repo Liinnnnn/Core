@@ -34,15 +34,17 @@ namespace projekt1.Controllers
                 .FirstOrDefault(f => f.FilmId == id);
 
             if (film == null)
+            {
                 return NotFound();
+            }
 
 
             film.Showtimes = film.Showtimes
              .Where(s => s.ShowtimeDate.HasValue &&
                     s.ShowtimeDate.Value.Date >= today &&
                     s.ShowtimeDate.Value.Date <= endDate)
-        .OrderBy(s => s.ShowtimeDate) // Sắp xếp theo ngày chiếu
-        .ToList();
+            .OrderBy(s => s.ShowtimeDate) // Sắp xếp theo ngày chiếu
+            .ToList();
 
             return View(film);  // Truyền dữ liệu phim và suất chiếu sang View
 

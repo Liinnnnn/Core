@@ -28,7 +28,7 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="services-list">
                     <a href="#" class="active">Thông tin phim</a>
-                    <a href="#">Đặt Vé</a>
+                    <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@Model.FilmId">Đặt Vé</a>
                     <a href="#">Lịch Chiếu</a>
                 </div>
 
@@ -55,44 +55,7 @@
 
                 </div>
                 <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                    <form action="starter-page.html" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
-                        <div class="row gy-4">
-                            <div class="col-md-12">
-                                <label for="name-field" class="pb-2">Tên</label>
-                                <input type="text" name="name" id="name-field" class="form-control" required="">
-                            </div>
-
-                            <div class="col-md-12">
-                                <label for="email-field" class="pb-2">Email</label>
-                                <input type="email" name="email" id="email-field" class="form-control" required="">
-                            </div>
-
-                            <div class="col-lg-6 col-md-12">
-                                <label for="subject-field" class="pb-2">Số lượng vé</label>
-                                <input type="number" inputmode="numeric" class="form-control" name="subject" id="subject-field" required="">
-                            </div>
-
-                            <div class="col-md-6">
-                                <label for="pay-field" class="pb-2">Phương thức thanh toán</label>
-                                <select value="" name="select" class="pb-2 services-select" id="pay-field">
-                                    <option value="">Chọn phương thức thanh toán</option>
-                                    <option value="cod">Thanh toán tại quầy</option>
-                                    <option value="online">Thanh toán trực tuyến</option>
-                                </select>
-                            </div>
-
-
-
-                            <div class="col-md-12">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Hãy kiểm tra hòm thư email của bạn</div>
-
-                                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Tiến hành thanh toán</button>
-                            </div>
-
-                        </div>
-                    </form>
+                    
                 </div>
                 <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
                     <div class="item-holders d-flex row">

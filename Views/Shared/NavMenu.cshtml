@@ -7,7 +7,7 @@
 <ul>
     <li><a asp-action="Index" asp-controller="Home">Trang chủ</a></li>
     <li><a asp-action="Index" asp-controller="Cinema">Rạp</a></li>
-    <li><a asp-action="Index" asp-controller="Film">Phim</a></li>
+    <li><a asp-action="Index" asp-controller="Film" asp-route-id="1">Phim</a></li>
     @if (User.Identity.IsAuthenticated == false)
     {
         <li><a class="btn-primary" asp-controller="Account" asp-action="Login">Đăng nhập</a></li>

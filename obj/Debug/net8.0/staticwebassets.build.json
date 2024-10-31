@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uZl8xVJxjPmci6cm0TdD4t7eIpxTpNu6eCAed2CZAUE=",
+  "Hash": "cnAKNlkLpvNVD4w7DEbkEEHmySJmtMM5vd54+2taL9E=",
   "Source": "projekt1",
   "BasePath": "_content/projekt1",
   "Mode": "Default",
@@ -1307,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\team\\team-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\58239c1cc6794387b7e9c8923c2a4d61.png",
+      "SourceId": "projekt1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\",
+      "BasePath": "_content/projekt1",
+      "RelativePath": "img/User/58239c1cc6794387b7e9c8923c2a4d61.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\User\\58239c1cc6794387b7e9c8923c2a4d61.png"
     },
     {
       "Identity": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\cccd.jpg",
