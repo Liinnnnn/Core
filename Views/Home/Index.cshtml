@@ -5,129 +5,129 @@
 
 
 @model IEnumerable<projekt1.Data.Film>
-    <!-- Hero Section -->
-    <section id="hero" class="section hero light-background">
+<!-- Hero Section -->
+<section id="hero" class="section hero light-background">
 
-        <div class="container">
-            <div class="row gy-4">
-                <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
-                    <h1>Trải nghiệm xem phim mới lạ </h1>
-                    <p>Độc nhất , chưa từng có với màn hình full 4k , âm thanh sắc nét</p>
-                    <div class="d-flex">
-                        <a href="#film" class="btn-primary">Mua vé ngay !</a>
-                        <a href="https://youtu.be/_OKAwz2MsJs?si=DiD1_s4ay0sBKEyP" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Xem trailer</span></a>
-                    </div>
+    <div class="container">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
+                <h1>Trải nghiệm xem phim mới lạ </h1>
+                <p>Độc nhất , chưa từng có với màn hình full 4k , âm thanh sắc nét</p>
+                <div class="d-flex">
+                    <a href="#film" class="btn-primary">Mua vé ngay !</a>
+                    <a href="https://youtu.be/_OKAwz2MsJs?si=DiD1_s4ay0sBKEyP" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Xem trailer</span></a>
                 </div>
-                <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="zoom-out" data-aos-delay="200">
-                    <p class="text-center ">Phim của tháng! <i class="bi bi-snow"></i></p>
-                    <img src="~/img/anh-mo-ta (1).png" class="img-fluid animated hero-bx" alt="">
-                </div>
+            </div>
+            <div class="col-lg-6 order-1 order-lg-2 hero-img " data-aos="zoom-out" data-aos-delay="200">
+                <p class="text-center ">Phim của tháng! <i class="bi bi-snow"></i></p>
+                <img src="~/img/anh-mo-ta (1).png" class="img-fluid animated hero-bx" alt="">
             </div>
         </div>
+    </div>
 
-    </section><!-- /Hero Section -->
-    <!-- About Section -->
-    <section id="about" class="section about">
+</section><!-- /Hero Section -->
+<!-- About Section -->
+<section id="about" class="section about">
 
-        <div class="container">
-            <div class="container section-title" data-aos="fade-up">
-                <h2>Rạp Phim </h2>
-            </div>
-            <div class="row gy-3">
-                <div class="col-lg-12 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-                    <div class="row">
-                        <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
-                            <h3 class="text-center">Rạp Cầu Diễn</h3>
-                            <img src="~/img/About/OIP.jpg" class="about-img" alt="">
-                            <p>Địa chỉ : Mai Dịch , gần Đại học Thương Mại </p>
-                        </a>
-                        <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
-                            <h3 class="text-center">Rạp Cầu Giấy</h3>
-                            <img src="~/img/About/2.jpg" class="about-img" alt="">
-                            <p>Địa chỉ : Xuân Thủy , ngay gần Đại học Quốc Gia Hà Nội</p>
-                        </a>
-                        <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
-                            <h3 class="text-center">Rạp Giải Phóng</h3>
-                            <img src="~/img/About/3.jpg" class="about-img" alt="">
-                            <p>Địa chỉ : Giải Phóng , gần Đại học Bách khoa Hà Nội </p>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-    </section>
-    <!-- /About Section -->
-    <!-- Services Section -->
-    <section id="services" class="services section light-background">
-
-        <!-- Section Title -->
+    <div class="container">
         <div class="container section-title" data-aos="fade-up">
-            <h2>Giá vé </h2>
-        </div><!-- End Section Title -->
-
-        <div class="container">
-
-            <div class="row gy-4">
-                <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
-                    <div class="service-item position-relative">
-                        <div class="icon"><i class="bi bi-flag"></i></div>
-                        <h4>Ngày lễ</a></h4>
-                        <p>Trẻ em : 50.000đ</p>
-                        <p>Học sinh - sinh viên : 75.000đ</p>
-                        <p>Người lớn : 95.000đ</p>
-                        <p>Có khuyến mãi tới 40% khi mua bỏng nước</p>
-                    </div>
+            <h2>Rạp Phim </h2>
+        </div>
+        <div class="row gy-3">
+            <div class="col-lg-12 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+                <div class="row">
+                    <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
+                        <h3 class="text-center">Rạp Cầu Diễn</h3>
+                        <img src="~/img/About/OIP.jpg" class="about-img" alt="">
+                        <p>Địa chỉ : Mai Dịch , gần Đại học Thương Mại </p>
+                    </a>
+                    <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
+                        <h3 class="text-center">Rạp Cầu Giấy</h3>
+                        <img src="~/img/About/2.jpg" class="about-img" alt="">
+                        <p>Địa chỉ : Xuân Thủy , ngay gần Đại học Quốc Gia Hà Nội</p>
+                    </a>
+                    <a asp-action="Index" asp-controller="Cinema" class="col-lg-4 col-md-6 text-center about-content ps-0 ps-lg-3">
+                        <h3 class="text-center">Rạp Giải Phóng</h3>
+                        <img src="~/img/About/3.jpg" class="about-img" alt="">
+                        <p>Địa chỉ : Giải Phóng , gần Đại học Bách khoa Hà Nội </p>
+                    </a>
                 </div>
-                <div class=" col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
-                    <div class="service-item position-relative">
-                        <div class="icon"><i class="bi bi-calendar-week"></i></div>
-                        <h4>Ngày thường</a></h4>
-                        <p>Trẻ em : 40.000đ</p>
-                        <p>Học sinh - sinh viên : 60.000đ</p>
-                        <p>Người lớn : 85.000đ</p>
-                    </div>
-                </div><!-- End Service Item -->
-
-
-                <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
-                    <div class="service-item position-relative">
-                        <div class="icon"><i class="bi bi-award"></i></div>
-                        <h4>Suất chiếu sớm</a></h4>
-                        <p>Trẻ em : 75.000đ</p>
-                        <p>Học sinh - sinh viên : 100.000đ</p>
-                        <p>Người lớn : 125.000đ</p>
-                        <p>Free bỏng nước</p>
-                    </div>
-                </div><!-- End Service Item -->
-
             </div>
+        </div>
+
+    </div>
+
+</section>
+<!-- /About Section -->
+<!-- Services Section -->
+<section id="services" class="services section light-background">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Giá vé </h2>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="row gy-4">
+            <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+                <div class="service-item position-relative">
+                    <div class="icon"><i class="bi bi-flag"></i></div>
+                    <h4>Ngày lễ</a></h4>
+                    <p>Trẻ em : 50.000đ</p>
+                    <p>Học sinh - sinh viên : 75.000đ</p>
+                    <p>Người lớn : 95.000đ</p>
+                    <p>Có khuyến mãi tới 40% khi mua bỏng nước</p>
+                </div>
+            </div>
+            <div class=" col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+                <div class="service-item position-relative">
+                    <div class="icon"><i class="bi bi-calendar-week"></i></div>
+                    <h4>Ngày thường</a></h4>
+                    <p>Trẻ em : 40.000đ</p>
+                    <p>Học sinh - sinh viên : 60.000đ</p>
+                    <p>Người lớn : 85.000đ</p>
+                </div>
+            </div><!-- End Service Item -->
+
+
+            <div class="col-xl-4 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+                <div class="service-item position-relative">
+                    <div class="icon"><i class="bi bi-award"></i></div>
+                    <h4>Suất chiếu sớm</a></h4>
+                    <p>Trẻ em : 75.000đ</p>
+                    <p>Học sinh - sinh viên : 100.000đ</p>
+                    <p>Người lớn : 125.000đ</p>
+                    <p>Free bỏng nước</p>
+                </div>
+            </div><!-- End Service Item -->
 
         </div>
 
-    </section><!-- /Services Section -->
-    <!-- film Section -->
-    <section id="film" class="film section">
+    </div>
 
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Film</h2>
-            <p><i class="bi bi-balloon-fill"></i> Mùa Film thu đông T10 - T12 <i class="bi bi-balloon-fill"></i> </p>
-        </div>
-        <!-- End Section Title -->
+</section><!-- /Services Section -->
+<!-- film Section -->
+<section id="film" class="film section">
 
-        <div class="container">
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Film</h2>
+        <p><i class="bi bi-balloon-fill"></i> Mùa Film thu đông T10 - T12 <i class="bi bi-balloon-fill"></i> </p>
+    </div>
+    <!-- End Section Title -->
 
-            <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+    <div class="container">
 
-                <ul class="film-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-                    <li data-filter="*" class="filter-active">Tất cả phim</li>
-                    <li data-filter=".filter-Showing">Phim đang chiếu</li>
-                    <li data-filter=".filter-Preview">Phim sắp chiếu</li>
-                    <li data-filter=".filter-Special">Suất đặc biệt</li>
-                </ul>
-                <!-- End film Filters -->
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+            <ul class="film-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+                <li data-filter="*" class="filter-active">Tất cả phim</li>
+                <li data-filter=".filter-Showing">Phim đang chiếu</li>
+                <li data-filter=".filter-Preview">Phim sắp chiếu</li>
+                <li data-filter=".filter-Special">Suất đặc biệt</li>
+            </ul>
+            <!-- End film Filters -->
 
 
             <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -142,10 +142,10 @@
                                 <div class="film-info">
                                     <h4>@s.suatChieu</h4>
                                     <p>@s.Description</p>
-                                    <a href="@s.FilmImg"  title="@s.Name" data-gallery="film-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                    <a href="@s.FilmImg" title="@s.Name" data-gallery="film-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                                     <a asp-action="Index" asp-controller="Film" asp-route-id="@s.FilmId" class="details-link"><i class="bi bi-link-45deg"></i></a>
                                     <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@s.FilmId" class="details-link2"><i class="bi bi-ticket-perforated"></i></a>
-                                   
+
                                 </div>
                             </div>
                         </div>
@@ -156,9 +156,7 @@
 
         </div>
 
-    </section>
-    <!-- /film Section -->
-    <!-- Faq Section -->
-    <!-- Team Section -->
-
-
+</section>
+<!-- /film Section -->
+<!-- Faq Section -->
+<!-- Team Section -->

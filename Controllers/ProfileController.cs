@@ -16,7 +16,12 @@ namespace projekt1.Controllers
             db = context;
         }
 
-        [HttpGet]       
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+
+        [HttpGet]
         public IActionResult Profile()
         {
             var userId = HttpContext.Session.GetInt32("UserId");
@@ -58,9 +63,9 @@ namespace projekt1.Controllers
                         }
 
                         existingUser.AvatarImg = filePath_db;
-                        
+
                     }
-                    
+
                     db.Users.Update(existingUser);
                     await db.SaveChangesAsync();
 

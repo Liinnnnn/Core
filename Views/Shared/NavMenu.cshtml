@@ -13,17 +13,15 @@
         <li><a class="btn-primary" asp-controller="Account" asp-action="Login">Đăng nhập</a></li>
         <li><a class="btn-register" asp-action="Register" asp-controller="Account">Đăng kí</a></li>
     }
-
-    @if(User.Identity.IsAuthenticated == true)
+    else
     {
         <li class="dropdown">
-            <img src="~/img/defaultAvatar.jpg" class="account-img" alt="" srcset="">
+            <img src="~/img/ProfilePicture2.png" class="account-img" alt="" srcset="">
             <ul>
                 <li><a asp-action="Profile" asp-controller="Profile">Tài khoản</a></li>
                 <li><a asp-controller="Account" asp-action="Logout" method="get">Đăng xuất</a></li>
             </ul>
         </li>
-        
     }
 </ul>
 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

@@ -78,21 +78,40 @@ namespace projekt1.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Register(Register register)
+        public async Task<IActionResult> Register(Register register, IFormFile file)
         {
 
-            var check = db.Users.FirstOrDefault(u => u.Email == register.Email);
-            if(check == null)
+            if (file != null && file.Length > 0)
             {
-                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, register.AvatarImg, register.Email, register.Password, "User");
+                // Lưu file vào thư mục wwwroot/images
+                var filePath_root = Path.Combine("wwwroot/img/User", file.FileName);
+                var filePath_db = Path.Combine("/img/User", file.FileName);
+                using (var stream = new FileStream(filePath_root, FileMode.Create))
+                {
+                    await file.CopyToAsync(stream);
+                }
 
-                if(ModelState.IsValid)
+                // Lưu thông tin file vào cơ sở dữ liệu
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, filePath_db, register.Email, register.Password, "User");
+
+                if (ModelState.IsValid)
                 {
                     db.Users.Add(user);
-                    db.SaveChanges();
+                    await db.SaveChangesAsync();
                 }
-                return View("Login");
             }
+            else
+            {
+                var defaultImg = Path.Combine("/img/User", "defaultAvatar.jpg");
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, defaultImg, register.Email, register.Password, "User");
+
+                if (ModelState.IsValid)
+                {
+                    db.Users.Add(user);
+                    await db.SaveChangesAsync();
+                }
+            }
+
             return View();
         }
     }

@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\img\\OIF.jpg"
     },
     {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\ProfilePicture2.png",
+      "PackagePath": "staticwebassets\\img\\ProfilePicture2.png"
+    },
+    {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\SP.png",
       "PackagePath": "staticwebassets\\img\\SP.png"
     },
@@ -47,6 +51,14 @@
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\Img1.jpg",
       "PackagePath": "staticwebassets\\img\\User\\Img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\Screenshot (266).png",
+      "PackagePath": "staticwebassets\\img\\User\\Screenshot (266).png"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\Screenshot (268).png",
+      "PackagePath": "staticwebassets\\img\\User\\Screenshot (268).png"
     },
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\cccd.jpg",
