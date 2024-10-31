@@ -7,60 +7,72 @@
 @{
     ViewData["Title"] = "Đặt vé cho phim";
 }
-<h2>Đặt vé - @Model.Name</h2>
-<div>
-    <img src="@Model.BannerImg" alt="@Model.Name" style="width: 200px; height: auto;" />
-    <p>@Model.Description</p>
-</div>
-<form asp-action="BookTicket" method="post">
-    <input type="hidden" name="filmId" value="@Model.FilmId" />
-    <!-- Chọn Giờ Chiếu -->
-    <div class="form-group">
-        <label>Giờ Chiếu:</label>
-        <select name="ShowtimeId" class="form-control" required>
-            @foreach (var showtime in ViewBag.Showtimes)
-            {
-                <option value="@showtime.ShowtimeId">@showtime.ShowTimeHour</option>
-            }
-        </select>
-    </div>
-    <!-- Chọn Số Ghế (Ma Trận) -->
-    <div class="form-group">
-        <label>Chọn Số Ghế:</label>
-        <div class="seat-matrix">
-            @for (char row = 'A'; row <= 'D'; row++)
-            {
-                <div class="seat-row">
-                    @for (int col = 1; col <= 10; col++)
-                    {
-                        var seatNumber = $"{row}{col}";
-                        <label>
-                            <input type="radio" name="SeatNumber" value="@seatNumber" required />
-                            @seatNumber
-                        </label>
-                    }
+<section class="section">
+        <div class="container">
+
+            <h2>Đặt vé - @Model.Name</h2>
+    
+            <div >
+                <img src="@Model.BannerImg" alt="@Model.Name" style="width: 100%; height: auto" />
+                <p class="description">@Model.Description</p>
+            </div>
+            <form asp-action="BookTicket" class="email-form" method="post">
+                <input type="hidden" name="filmId" value="@Model.FilmId" />
+                <!-- Chọn Giờ Chiếu -->
+                <div class="form-group">
+                    <label>Giờ Chiếu:</label>
+                    <select name="ShowtimeId" class="form-control" required>
+                        @foreach (var showtime in ViewBag.Showtimes)
+                        {
+                            <option value="@showtime.ShowtimeId">@showtime.ShowTimeHour</option>
+                        }
+                    </select>
                 </div>
-            }
+                <!-- Chọn Số Ghế (Ma Trận) -->
+                <div class="form-group">
+                    <label>Chọn Số Ghế:</label>
+                    <div class="seat-matrix">
+                        @for (char row = 'A'; row <= 'D'; row++)
+                        {
+                            <div class="seat-row">
+                                @for (int col = 1; col <= 10; col++)
+                                {
+                                    var seatNumber = $"{row}{col}";
+                                    <label>
+                                        <input type="radio" name="SeatNumber" value="@seatNumber" required />
+                                        @seatNumber
+                                    </label>
+                                }
+                            </div>
+                        }
+                    </div>
+                <div class="form-group">
+            
+                    <label>Giá vé: 45.000 vnđ</label>
+            
+                </div>
+                <button type="submit" class="btn-send pe-lg-4 ps-lg-4">Đặt vé</button>
+
+               
+            </form>
         </div>
-    </div>
-    <!-- Nhập Giá Vé -->
-    <div class="form-group">
+            <style>
+                .seat-matrix {
+                    display: flex;
+                    gap: 5px;
+                    flex-direction:column;
+                }
+                .seat-row {
+                   display:flex;
+                   justify-content:space-between;
+                }
+                .form-group label {
+                    margin:8px 0;
+                }
 
-        <label>Giá vé: 40000 vnđ</label>
-
-    </div>
-    <button type="submit" class="btn btn-primary">Đặt vé</button>
-</form>
-<style>
-    .seat-matrix {
-        display: grid;
-        grid-template-columns: repeat(10, auto);
-        gap: 5px;
-    }
-    .seat-row {
-        display: flex;
-    }
-    label {
-        margin: 2px;
-    }
-</style>
+                .description {
+                    margin:12px 0;
+                }
+               
+            </style>
+    </section>
