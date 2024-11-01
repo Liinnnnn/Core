@@ -12,9 +12,11 @@ namespace projekt1.Controllers
         {
             return View();
         }
-        public IActionResult Ticket()
+  
+        public IActionResult AddFilm()
         {
             return View();
         }
+
     }
 }

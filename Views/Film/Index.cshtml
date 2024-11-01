@@ -28,10 +28,15 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="services-list">
                     <a href="#" class="active">Thông tin phim</a>
-                    <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@Model.FilmId">Đặt Vé</a>
+                    @if(User.Identity.IsAuthenticated){
+                        <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@Model.FilmId">Đặt Vé</a>
+                    }
+                    @if (User.Identity.IsAuthenticated == false){
+                        <a asp-action="Login" asp-controller="Account" asp-route-filmId="@Model.FilmId">Đặt Vé</a>
+                    }
                     <a href="#">Lịch Chiếu</a>
                 </div>
-
+                
                 <h4>Mua vé , đặt chỗ trực tuyến</h4>
                 <p>Mua vé nhanh chóng , giá vé rẻ không ngờ</p>
             </div>

@@ -1,4 +1,9 @@
-﻿@{
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
     Layout = "~/Views/Shared/AdminLayout.cshtml";
     ViewData["Title"] = "Admin";
 
@@ -15,30 +20,17 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="services-list">
                     <a asp-action="Index" asp-controller="Admin">Cập nhật rạp phim</a>
-                    <a asp-action="Film" asp-controller="Admin" class="active">Cập nhật phim</a>
-                    <a asp-action="AddFilm" asp-controller="Admin" >Thêm phim</a>
+                    <a asp-action="Film" asp-controller="Admin">Cập nhật phim</a>
+                    <a asp-action="AddFilm" asp-controller="Admin" class="active">Thêm phim</a>
                 </div>
 
             </div>
 
             <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
+
              
-                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                  
-                </div>
                 <div class="services-item" data-aos="fade-up" data-aos-delay="300">
-                    <select name="film-selection" id="film-selection" class="cinema-select">
-                        <option value="">Chọn phim</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                        <option value="">Joker</option>
-                    </select>
+                   
                     <form action="" class="form-edit" method="POST">
                         <div>
 
@@ -73,13 +65,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                    <div class="items-holder">
-                        <div class="form-holder row gy-4">
-                           
-                        </div>
-                    </div>
-                </div>
+             
             </div>
 
         </div>
