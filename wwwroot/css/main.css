@@ -1435,7 +1435,7 @@ section,
     border-bottom: 3px solid var(--accent-color);
 }
 
-.email-form .btn-send {
+.btn-send {
     background-color: var(--accent-color);
     color: var(--contrast-color);
     padding: 4px;

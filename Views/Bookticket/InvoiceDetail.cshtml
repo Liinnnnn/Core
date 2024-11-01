@@ -1,4 +1,4 @@
-﻿@*
+﻿﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
@@ -6,6 +6,7 @@
 @model dynamic
 @{
     ViewData["Title"] = "Chi tiết hóa đơn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <section class="section">
     <div class="container">
@@ -14,10 +15,28 @@
         <p>Gmail: @Model.Gmail</p>
         <p>Tên người dùng: @Model.UserName</p>
         <p>Ngày thanh toán: @Model.PaymentDate</p>
-        <p>Số ghế: @Model.SeatNumber</p>
-        <p>Giá: @Model.PaymentAmount</p>
         <p>Phim: @Model.FilmName</p>
         <p>Phương thức thanh toán: @Model.PaymentMethod</p>
-        <a asp-action="Index" asp-controller="Home">Trở về trang chủ</a>
+
+        <h3>Chi tiết vé:</h3>
+        <ul>
+            @foreach (var ticket in Model.Tickets)
+            {
+                <li>Số ghế: @ticket.SeatNumber</li>
+            }
+        </ul>
+
+        <p><strong>Tổng tiền: @Model.PaymentAmount vnđ</strong></p>
+
+        <button type="button" class="btn-send pe-lg-4 ps-lg-4 email-form" onclick="confirmPayment()">Xác nhận thanh toán</button>
     </div>
 </section>
+
+<script>
+    function confirmPayment() {
+        // Display confirmation alert
+        alert("Xác nhận thanh toán và đặt vé thành công! Cảm ơn bạn đã chọn Spoke Cinema.");
+        // Redirect to the home page after confirmation
+        window.location.href = '@Url.Action("Index", "Home")';
+    }
+</script>

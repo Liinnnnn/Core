@@ -78,26 +78,30 @@ public partial class CinemaDbContext : DbContext
 
         modelBuilder.Entity<Invoice>(entity =>
         {
-            entity.HasKey(e => e.InvoiceId).HasName("PK__Invoice__D796AAD512A91200");
-
+            entity.HasKey(e => e.InvoiceId)
+                  .HasName("PK__Invoice__D796AAD512A91200");
             entity.ToTable("Invoice");
-
-            entity.Property(e => e.InvoiceId).HasColumnName("InvoiceID");
-            entity.Property(e => e.PaymentAmount).HasColumnType("decimal(10, 2)");
-            entity.Property(e => e.PaymentDate).HasColumnType("datetime");
+            entity.Property(e => e.InvoiceId)
+                  .HasColumnName("InvoiceID");
+            entity.Property(e => e.PaymentAmount)   
+                .HasColumnType("decimal(10, 2)");
+            entity.Property(e => e.PaymentDate)
+                .HasColumnType("datetime");
             entity.Property(e => e.PaymentMethod)
                 .HasMaxLength(50)
                 .IsUnicode(true);
-            entity.Property(e => e.TicketId).HasColumnName("TicketID");
-            entity.Property(e => e.UserId).HasColumnName("UserID");
-
-            entity.HasOne(d => d.Ticket).WithMany(p => p.Invoices)
-                .HasForeignKey(d => d.TicketId)
-                .HasConstraintName("FK__Invoice__TicketI__46E78A0C");
+            entity.Property(e => e.UserId)
+                .HasColumnName("UserID");
 
             entity.HasOne(d => d.User).WithMany(p => p.Invoices)
                 .HasForeignKey(d => d.UserId)
                 .HasConstraintName("FK__Invoice__UserID__47DBAE45");
+
+            // Thêm liên kết với bảng Ticket
+            entity.HasMany(d => d.Tickets).WithOne(p => p.Invoice)
+                .HasForeignKey(p => p.InvoiceId)
+                .OnDelete(DeleteBehavior.SetNull)
+                .HasConstraintName("FK__Ticket__InvoiceID");
         });
 
         modelBuilder.Entity<Showtimes>(entity =>
@@ -126,19 +130,21 @@ public partial class CinemaDbContext : DbContext
         modelBuilder.Entity<Ticket>(entity =>
         {
             entity.HasKey(e => e.TicketId).HasName("PK__Ticket__712CC6279E1F1C9C");
-
             entity.ToTable("Ticket");
-
             entity.Property(e => e.TicketId).HasColumnName("TicketID");
             entity.Property(e => e.Price).HasColumnType("decimal(10, 2)");
-            entity.Property(e => e.SeatNumber)
-                .HasMaxLength(10)
-                .IsUnicode(false);
+            entity.Property(e => e.SeatNumber).HasMaxLength(10).IsUnicode(false);
             entity.Property(e => e.ShowtimeId).HasColumnName("ShowtimeID");
+            entity.Property(e => e.InvoiceId).HasColumnName("InvoiceID"); // Thêm cột InvoiceID trong Ticket
 
             entity.HasOne(d => d.Showtime).WithMany(p => p.Tickets)
                 .HasForeignKey(d => d.ShowtimeId)
                 .HasConstraintName("FK__Ticket__Showtime__440B1D61");
+
+            entity.HasOne(d => d.Invoice).WithMany(p => p.Tickets)
+                .HasForeignKey(d => d.InvoiceId)
+                .OnDelete(DeleteBehavior.SetNull)
+                .HasConstraintName("FK__Ticket__InvoiceID");
         });
 
         modelBuilder.Entity<User>(entity =>
