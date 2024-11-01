@@ -6,7 +6,7 @@ namespace projekt1.Models
     public class Register
     {
         [Display(Name = "Họ và tên")]
-        [Required(ErrorMessage = "*")]
+        [Required(ErrorMessage = "Vui lòng nhập trường này")]
         [MaxLength(50,ErrorMessage = "Tối đa 50 kí tự!")]
         
         public string FullName { get; set; } = null!;
@@ -17,11 +17,12 @@ namespace projekt1.Models
         public DateOnly BirthDay { get; set; }
 
         [Display(Name = "Giới Tính")]
+
         public string? Gender { get; set; }
 
         [Display(Name = "Số Điện Thoại")]
-        [Required(ErrorMessage = "*")]
-        //[RegularExpression(@"((^(\+84 | 84 | 0 | 0084){1})(3|5|7|8|9))+([0 - 9]{8})$)",ErrorMessage ="Xin nhập đúng định dạng số điện thoại")]
+        [Required(ErrorMessage = "Vui lòng nhập trường này")]
+
         public string PhoneNumber { get; set; }
 
         [Display(Name = "Tải Ảnh Lên")]
@@ -29,19 +30,21 @@ namespace projekt1.Models
         public string? AvatarImg { get; set; }
 
         [Display(Name = "Email")]
-        [Required(ErrorMessage = "*")]
+        [Required(ErrorMessage = "Vui lòng nhập trường này")]
+
         [EmailAddress(ErrorMessage = "Chưa đúng định dạng")]
         [RegularExpression(@"^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$", ErrorMessage = "Xin nhập đúng định dạng email")]
         public string Email { get; set; }
 
         [Display(Name = "Mật Khẩu")]
-        [Required(ErrorMessage = "*")]
+        [Required(ErrorMessage = "Vui lòng nhập trường này")]
+
         [MaxLength(20, ErrorMessage = "Tối đa 20 kí tự!")]
         [DataType(DataType.Password)]
         [RegularExpression(@"^(?=.*[A-Z])(?=.*[\W_]).{8,}$", ErrorMessage = "Mật khẩu phải có ít nhất 8 ký tự, có chữ hoa, chữ thường, số và kí tự đặc biệt")]
         public string Password { get; set; }
 
-        [Required(ErrorMessage = "*")]
+        [Required(ErrorMessage = "Vui lòng nhập trường này")]
         [DataType(DataType.Password)]
         [Compare("Password",ErrorMessage = "Mật khẩu không khớp. Thử lại")]
         [Display(Name = "Nhập Lại Mật Khẩu")]

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using projekt1.Data;
@@ -14,8 +16,14 @@ namespace projekt1.Controllers
         }
         public IActionResult UpdateFilm()
         {
-            
-            return View();
+            var films = new List<SelectListItem>();
+            var f = db.Films.ToList();
+            foreach (var film in db.Films)
+            {
+                films.Add(new SelectListItem { Text = film.Name, Value = film.FilmId.ToString() });
+            }
+            ViewBag.FilmId = films;
+            return View(f);
         }
         [HttpGet]
         public IActionResult AddFilm()
@@ -54,6 +62,12 @@ namespace projekt1.Controllers
 
 
             return View();
+        }
+
+        public async Task<IActionResult> LogoutAsync()
+        {
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Index", "Home");
         }
 
     }

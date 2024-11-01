@@ -81,6 +81,10 @@
       "PackagePath": "staticwebassets\\img\\User\\hai1.jpg"
     },
     {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\titanic.jpg",
+      "PackagePath": "staticwebassets\\img\\User\\titanic.jpg"
+    },
+    {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\about-img.svg",
       "PackagePath": "staticwebassets\\img\\about-img.svg"
     },
@@ -251,6 +255,14 @@
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\tam.jpg",
       "PackagePath": "staticwebassets\\img\\film\\tam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\titanic.jpg",
+      "PackagePath": "staticwebassets\\img\\film\\titanic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\titanicbn.jpg",
+      "PackagePath": "staticwebassets\\img\\film\\titanicbn.jpg"
     },
     {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\film\\venom.png",
