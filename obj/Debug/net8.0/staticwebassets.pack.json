@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\img\\SP.png"
     },
     {
+      "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\49ec407a1717f70aaf1b92d1dbd7f2ef.png",
+      "PackagePath": "staticwebassets\\img\\User\\49ec407a1717f70aaf1b92d1dbd7f2ef.png"
+    },
+    {
       "Id": "C:\\Users\\ngtua\\OneDrive\\Desktop\\Web.netCore\\Core\\wwwroot\\img\\User\\58239c1cc6794387b7e9c8923c2a4d61.png",
       "PackagePath": "staticwebassets\\img\\User\\58239c1cc6794387b7e9c8923c2a4d61.png"
     },
