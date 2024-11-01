@@ -8,5 +8,13 @@ namespace projekt1.Controllers
         {
             return View();
         }
+        public IActionResult Film()
+        {
+            return View();
+        }
+        public IActionResult Ticket()
+        {
+            return View();
+        }
     }
 }

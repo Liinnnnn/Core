@@ -14,37 +14,16 @@
 
                 <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="services-list">
-                        <a href="#" class="active">Cập nhật ảnh chính</a>
-                        <a href="#">Cập nhật rạp phim</a>
-                        <a href="#">Cập nhật phim</a>
-                        <a href="#">Cập nhật giá vé</a>
+                        <a asp-action="Index" asp-controller="Admin" class="active">Cập nhật rạp phim</a>
+                        <a asp-action="Film" asp-controller="Admin">Cập nhật phim</a>
+                        <a asp-action="Ticket" asp-controller="Admin">Cập nhật giá vé</a>
                     </div>
 
                 </div>
 
                 <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
+                    
                     <div class="services-item" data-aos="fade-up" data-aos-delay="300">
-                        <div class="items-holder">
-                            <form action="" class="form-edit" method="POST">
-                                <div>
-                                    <label for="trailer">Trailer:</label>
-                                    <input type="text" id="trailer" name="trailer" value="https://youtu.be/_OKAwz2MsJs?si=DiD1_s4ay0sBKEyP">
-                                    <br><br>
-                                    <label for="title">Tiêu đề :</label>
-                                    <input type="text" id="title" name="title" value="Phim của tháng ! ">
-                                    <br><br>
-                                    <label for="image">Ảnh chính : </label>
-                                    <input type="file" id="image" name="image">
-                                    <br><br>
-                                </div>
-                                <div>
-                                    <button type="submit" class="btn-edit">Lưu</button>
-                                    <button type="submit" class="btn-edit">Làm lại</button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                    <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
                         <select name="cinema-selection" id="cinema-selection" class="cinema-select">
                             <option value="">Chọn rạp phim</option>
                             <option value="">Rạp phim Cầu giấy</option>
@@ -71,120 +50,10 @@
                         </form>
                     </div>
                     <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                        <select name="cinema-selection" id="cinema-selection" class="cinema-select">
-                            <option value="">Chọn phim</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                            <option value="">Joker</option>
-                        </select>
-                        <form action="" class="form-edit" method="POST">
-                            <div>
-
-                                <label for="Image">Ảnh Phim:</label>
-                                <input type="file" accept="image/*,.jpg,.png" id="Image" name="Image" value="~/assets/img/film/tam.jpg">
-                                <br><br>
-                                <label for="Image">Ảnh Banner:</label>
-                                <input type="file" accept="image/*,.jpg,.png" id="file" name="file" value="/assets/img/333.png">
-                                <br><br>
-                                <label for="status">Trạng thái :</label>
-                                <input type="text" id="status" name="status" value="Đang chiếu">
-                                <br><br>
-                                <label for="name">Tên phim:</label>
-                                <input type="text" id="name" name="name" value="Joker">
-                                <br><br>
-                                <label for="director">Đạo diễn:</label>
-                                <input type="text" id="director" name="director" value="Đạo diễn">
-                                <br><br>
-                                <label for="duration">Thời lượng:</label>
-                                <input type="text" id="duration" name="duration" value="95">
-                                <br><br>
-                                <label for="country">Quốc gia:</label>
-                                <input type="text" id="country" name="country" value="Vietnam">
-                                <br><br>
-                                <label for="description">Mô tả :</label>
-                                <input type="file" name="description" id="descriptionfile" accept=".doc,.docx">
-                                <br><br>
-                            </div>
-                            <div>
-                                <button type="submit" class="btn-edit">Lưu</button>
-                                <button type="submit" class="btn-edit">Làm lại</button>
-                                <button type="submit" class="btn-edit">Xóa</button>
-                            </div>
-                        </form>
+                       
                     </div>
                     <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                        <div class="items-holder">
-                            <div class="form-holder row gy-4">
-                                <form action="" class=" form-edit col-lg-4" method="POST">
-                                    <div>
-                                        <h2>Ngày lễ</h2>
-                                        <br><br>
-                                        <label>Trẻ em:</label>
-                                        <input type="text" name="children" value="50.000">
-                                        <br><br>
-                                        <label>Người lớn:</label>
-                                        <input type="text" name="adult" value="85.000">
-                                        <br><br>
-                                        <label>Học sinh - sinh viên : </label>
-                                        <input type="text" name="pupil" value="95.000">
-                                        <br><br>
-                                        <label>Khuyến mãi : </label>
-                                        <input type="text" name="discount" value="40">
-                                        <br><br>
-                                    </div>
-                                    <div>
-                                        <button type="submit" class="btn-edit">Lưu</button>
-                                        <button type="submit" class="btn-edit">Làm lại</button>
-                                    </div>
-                                </form>
-                                <form action="" class=" form-edit col-lg-4" method="POST">
-                                    <div>
-                                        <h2>Ngày thường</h2>
-                                        <br><br>
-                                        <label>Trẻ em: </label>
-                                        <input type="text" name="children" value="40.000">
-                                        <br><br>
-                                        <label>Người lớn:</label>
-                                        <input type="text" name="adult" value="85.000">
-                                        <br><br>
-                                        <label>Học sinh - sinh viên : </label>
-                                        <input type="text" name="pupil" value="60.000">
-                                        <br><br>
-                                    </div>
-                                    <div>
-                                        <button type="submit" class="btn-edit">Lưu</button>
-                                        <button type="submit" class="btn-edit">Làm lại</button>
-
-                                    </div>
-                                </form>
-                                <form action="" class=" form-edit col-lg-4" method="POST">
-                                    <div>
-                                        <h2>Suất đặc biệt</h2>
-                                        <br><br>
-                                        <label>Trẻ em: </label>
-                                        <input type="text" name="children" value="70.000">
-                                        <br><br>
-                                        <label>Người lớn:</label>
-                                        <input type="text" name="adult" value="125.000">
-                                        <br><br>
-                                        <label>Học sinh - sinh viên : </label>
-                                        <input type="text" name="pupil" value="100.000">
-                                        <br><br>
-                                    </div>
-
-                                    <div>
-                                        <button type="submit" class="btn-edit">Lưu</button>
-                                        <button type="submit" class="btn-edit">Làm lại</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
 
