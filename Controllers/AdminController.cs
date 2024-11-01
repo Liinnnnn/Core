@@ -14,14 +14,8 @@ namespace projekt1.Controllers
         }
         public IActionResult UpdateFilm()
         {
-            var films = new List<SelectListItem>();
-            var f = db.Films.ToList();
-            foreach (var film in db.Films)
-            {
-                films.Add(new SelectListItem { Text = film.Name, Value = film.FilmId.ToString() });
-            }
-            ViewBag.FilmId = films;
-            return View(f);
+            
+            return View();
         }
         [HttpGet]
         public IActionResult AddFilm()

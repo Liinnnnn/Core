@@ -7,6 +7,10 @@ using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using projekt1.Data;
 using projekt1.Models;
+using System.Web;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Win32;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace projekt1.Controllers
 {
@@ -41,38 +45,29 @@ namespace projekt1.Controllers
                 else
                 {
                     var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name,account.FullName),
-                new Claim(ClaimTypes.Role,account.Type)
-            };
+                    {
+                        new Claim(ClaimTypes.Name,account.Email),
+                        new Claim(ClaimTypes.Role,"user")
+                    };
                     var claimsIdentity = new ClaimsIdentity(
                         claims, CookieAuthenticationDefaults.AuthenticationScheme);
                     var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
 
                     HttpContext.Session.SetInt32("UserId", account.UserId);
-                    if (claimsPrincipal.IsInRole("Admin"))
-                    {
-                        return RedirectToAction("Index", "Admin");
-                    }
-                    else if (Url.IsLocalUrl(ReturnUrl))
+                    if (Url.IsLocalUrl(ReturnUrl))
                     {
                         return Redirect(ReturnUrl);
+
                     }
                     else
                     {
-                        return Redirect("/Home");
+                        return Redirect("/Film");
                     }
                 }
 
             }
             return View();
-        }
-        //[HttpPost]
-        public async Task<IActionResult> Logout()
-        {
-            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-            return RedirectToAction("Index", "Home");
         }
 
         [HttpGet]
@@ -87,15 +82,14 @@ namespace projekt1.Controllers
             if (file != null && file.Length > 0)
             {
                 // Lưu file vào thư mục wwwroot/images
-                var filePath_root = Path.Combine("wwwroot/img/User", file.FileName);
-                var filePath_db = Path.Combine("/img/User", file.FileName);
-                using (var stream = new FileStream(filePath_root, FileMode.Create))
+                var filePath = Path.Combine("wwwroot/img/User", file.FileName);
+                using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     await file.CopyToAsync(stream);
                 }
 
                 // Lưu thông tin file vào cơ sở dữ liệu
-                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, filePath_db, register.Email, register.Password, "User");
+                User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, filePath, register.Email, register.Password, "User");
 
                 if (ModelState.IsValid)
                 {
@@ -105,14 +99,12 @@ namespace projekt1.Controllers
             }
             else
             {
-                var defaultImg = Path.Combine("/img/User", "defaultAvatar.jpg");
+                var defaultImg = Path.Combine("wwwroot/img/User", "defaultAvatar.jpg");
                 User user = new User(register.FullName, register.BirthDay, register.Gender, register.PhoneNumber, defaultImg, register.Email, register.Password, "User");
 
-                if (ModelState.IsValid)
-                {
-                    db.Users.Add(user);
-                    await db.SaveChangesAsync();
-                }
+                db.Users.Add(user);
+                await db.SaveChangesAsync();
+
             }
 
             return View();
