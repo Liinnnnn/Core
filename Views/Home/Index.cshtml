@@ -148,6 +148,9 @@
                                     {
                                         <a asp-action="BookTicket" asp-controller="Bookticket" asp-route-filmId="@s.FilmId" class="details-link2"><i class="bi bi-ticket-perforated"></i></a>
                                         
+                                    }else {
+                                        <a asp-action="Login" asp-controller="Account" asp-route-filmId="@s.FilmId" class="details-link2"><i class="bi bi-ticket-perforated"></i></a>
+
                                     }
 
                                 </div>

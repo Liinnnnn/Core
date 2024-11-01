@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Win32;
 using projekt1.Data;
 using projekt1.Models;
+using Microsoft.AspNetCore.Http;
 
 
 namespace projekt1.Controllers
@@ -16,18 +17,14 @@ namespace projekt1.Controllers
             db = context;
         }
 
-        public IActionResult ChangePassword()
-        {
-            return View();
-        }
-
-        [HttpGet]
+        [HttpGet]       
         public IActionResult Profile()
         {
             var userId = HttpContext.Session.GetInt32("UserId");
             if (userId != null)
             {
                 var user = db.Users.FirstOrDefault(u => u.UserId == userId);
+                
                 if (user != null)
                 {
                     return View(user);
@@ -61,11 +58,11 @@ namespace projekt1.Controllers
                         {
                             await file.CopyToAsync(stream);
                         }
-
+                         
                         existingUser.AvatarImg = filePath_db;
-
+                        
                     }
-
+                    
                     db.Users.Update(existingUser);
                     await db.SaveChangesAsync();
 
@@ -73,6 +70,42 @@ namespace projekt1.Controllers
                 }
             }
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> ChangePassword(ChangePassword change)
+        {
+            var userId = HttpContext.Session.GetInt32("UserId");
+            
+
+            if (ModelState.IsValid)
+            {
+                if (userId != null)
+                {
+                    var user = db.Users.FirstOrDefault(u => u.UserId == userId);
+
+                    if(user.Password != change.CurrentPassword)
+                    {
+                        ModelState.AddModelError("CurrentPassword", "Mật khẩu hiện tại không đúng.");
+                    }
+                    else
+                    {
+                        user.Password = change.NewPassword;
+                        db.Users.Update(user);
+
+                        await db.SaveChangesAsync();
+
+                        return RedirectToAction("Profile", "Profile");
+                    }
+                }
+            }
             return View();
         }
     }

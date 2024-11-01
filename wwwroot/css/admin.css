@@ -1,13 +1,10 @@
-﻿
-.cinema-select {
+﻿.cinema-select,.film-select {
     padding: 4px 0;
     margin: 0 0 8px;
 }
 
-.form-edit {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+.email-form .form-label {
+    width: 150px!important;
 }
 
 .btn-edit {

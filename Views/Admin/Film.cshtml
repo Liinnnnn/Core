@@ -23,9 +23,7 @@
 
             <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
              
-                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                  
-                </div>
+              
                 <div class="services-item" data-aos="fade-up" data-aos-delay="300">
                     <select name="film-selection" id="film-selection" class="cinema-select">
                         <option value="">Chọn phim</option>
@@ -39,47 +37,48 @@
                         <option value="">Joker</option>
                         <option value="">Joker</option>
                     </select>
-                    <form action="" class="form-edit" method="POST">
-                        <div>
-
-                            <label for="Image">Ảnh Phim:</label>
-                            <input type="file" accept="image/*,.jpg,.png" id="Image" name="Image" value="~/assets/img/film/tam.jpg">
-                            <br><br>
-                            <label for="Image">Ảnh Banner:</label>
-                            <input type="file" accept="image/*,.jpg,.png" id="file" name="file" value="/assets/img/333.png">
-                            <br><br>
-                            <label for="status">Trạng thái :</label>
-                            <input type="text" id="status" name="status" value="Đang chiếu">
-                            <br><br>
-                            <label for="name">Tên phim:</label>
-                            <input type="text" id="name" name="name" value="Joker">
-                            <br><br>
-                            <label for="director">Đạo diễn:</label>
-                            <input type="text" id="director" name="director" value="Đạo diễn">
-                            <br><br>
-                            <label for="duration">Thời lượng:</label>
-                            <input type="text" id="duration" name="duration" value="95">
-                            <br><br>
-                            <label for="country">Quốc gia:</label>
-                            <input type="text" id="country" name="country" value="Vietnam">
-                            <br><br>
-                            <label for="description">Mô tả :</label>
-                            <input type="file" name="description" id="descriptionfile" accept=".doc,.docx">
-                            <br><br>
-                        </div>
-                        <div>
-                            <button type="submit" class="btn-edit">Lưu</button>
-                            <button type="submit" class="btn-edit">Làm lại</button>
+                    <form action="" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-md-12">
+                                <label class="form-label" for="Image" class="pb-2">Ảnh Phim:</label>
+                                <input type="file" accept="image/*,.jpg,.png" id="Image" name="Image" value="~/assets/img/film/tam.jpg">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="Image">Ảnh Banner:</label>
+                                <input type="file" accept="image/*,.jpg,.png" id="file" name="file" value="/assets/img/333.png">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="status">Trạng thái :</label>
+                                <input type="text" id="status" name="status" value="Đang chiếu">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="name">Tên phim:</label>
+                                <input type="text" id="name" name="name" value="Joker">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="director">Đạo diễn:</label>
+                                <input type="text" id="director" name="director" value="Đạo diễn">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="duration">Thời lượng:</label>
+                                <input type="text" id="duration" name="duration" value="95">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="country">Quốc gia:</label>
+                                <input type="text" id="country" name="country" value="Vietnam">
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="description">Mô tả :</label>
+                                <input type="file" name="description" id="descriptionfile" accept=".doc,.docx">
+                            </div>
+                            <div class="col-md-12">
+                                <button type="submit" class="btn-edit">Lưu</button>
+                                <button type="submit" class="btn-edit">Làm lại</button>
+                            </div>
                         </div>
                     </form>
                 </div>
-                <div class="services-item d-none" data-aos="fade-up" data-aos-delay="300">
-                    <div class="items-holder">
-                        <div class="form-holder row gy-4">
-                           
-                        </div>
-                    </div>
-                </div>
+                
             </div>
 
         </div>

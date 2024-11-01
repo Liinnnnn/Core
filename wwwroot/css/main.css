@@ -1129,7 +1129,7 @@ section,
         .film .film-content .film-info .details-link,
         .film .film-content .film-info .details-link2 {
             position: absolute;
-            left: calc(50% - 40px);
+            left: calc(42% - 40px);
             font-size: 26px;
             top: calc(50% - 14px);
             color: #fff;
@@ -1144,7 +1144,7 @@ section,
             }
 
         .film .film-content .film-info .details-link {
-            left: 50%;
+            left: 46%;
             font-size: 34px;
             line-height: 0;
         }
