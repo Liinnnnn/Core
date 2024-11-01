@@ -66,7 +66,7 @@ public partial class CinemaDbContext : DbContext
             entity.Property(e => e.FilmImg).HasMaxLength(50);
             entity.Property(e => e.Language)
                 .HasMaxLength(50)
-                .IsUnicode(false);
+                .IsUnicode(true);
             entity.Property(e => e.Name)
                 .HasMaxLength(255)
                 .IsUnicode(true);

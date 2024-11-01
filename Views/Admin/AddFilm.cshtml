@@ -8,6 +8,7 @@
     ViewData["Title"] = "Admin";
 
 }
+@model projekt1.Data.Film
 
 
 <!-- Service Details Section -->
@@ -28,42 +29,61 @@
 
             <div class="col-lg-8 services-holder" data-aos="fade-up" data-aos-delay="200">
 
-             
+
                 <div class="services-item" data-aos="fade-up" data-aos-delay="300">
-                   
-                    <form action="" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
+
+                    <form asp-action="AddFilm" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200" enctype="multipart/form-data">
                         <div class="row gy-4">
                             <div class="col-md-12">
                                 <label class="form-label" for="Image" class="pb-2">Ảnh Phim:</label>
-                                <input type="file" accept="image/*,.jpg,.png" id="Image" name="Image" value="~/assets/img/film/tam.jpg">
+                                <input type="file" accept="image/*,.jpg,.png" id="Image" name="file1" value="" asp-for="@Model.FilmImg">
+
                             </div>
                             <div class="col-md-12">
                                 <label class="form-label" for="Image">Ảnh Banner:</label>
-                                <input type="file" accept="image/*,.jpg,.png" id="file" name="file" value="/assets/img/333.png">
+                                <input type="file" accept="image/*,.jpg,.png" id="file" name="file2" value="" asp-for="@Model.BannerImg">
+
                             </div>
                             <div class="col-md-12">
-                                <label class="form-label" for="status">Trạng thái :</label>
-                                <input type="text" id="status" name="status" value="Đang chiếu">
+                                <label class="form-label" for="suatChieu">Trạng thái :</label>
+                                <input type="text" id="suatChieu" name="suatChieu" value="" asp-for="@Model.suatChieu">
+                                <span asp-validation-for="@Model.suatChieu" class="text-danger "></span>
+
+
                             </div>
                             <div class="col-md-12">
                                 <label class="form-label" for="name">Tên phim:</label>
-                                <input type="text" id="name" name="name" value="Joker">
+                                <input type="text" id="name" name="name" value="" asp-for="@Model.Name">
+                                <span asp-validation-for="@Model.Name" class="text-danger "></span>
+
                             </div>
                             <div class="col-md-12">
                                 <label class="form-label" for="director">Đạo diễn:</label>
-                                <input type="text" id="director" name="director" value="Đạo diễn">
+                                <input type="text" id="director" name="director" value="" asp-for="@Model.Director">
+                                <span asp-validation-for="@Model.Director" class="text-danger "></span>
+
                             </div>
                             <div class="col-md-12">
                                 <label class="form-label" for="duration">Thời lượng:</label>
-                                <input type="text" id="duration" name="duration" value="95">
+                                <input type="text" id="duration" name="duration" value="" asp-for="@Model.Duration">
+                                <span asp-validation-for="@Model.Duration" class="text-danger "></span>
+
                             </div>
                             <div class="col-md-12">
-                                <label class="form-label" for="country">Quốc gia:</label>
-                                <input type="text" id="country" name="country" value="Vietnam">
+                                <label class="form-label" for="language">Quốc gia:</label>
+                                <input type="text" id="language" name="language" value="" asp-for="@Model.Language">
+                                <span asp-validation-for="@Model.Language" class="text-danger "></span>
+                            </div>
+                            <div class="col-md-12">
+                                <label class="form-label" for="year">Năm:</label>
+                                <input type="text" id="year" name="year" value="" asp-for="@Model.Year">
+                                <span asp-validation-for="@Model.Language" class="text-danger "></span>
                             </div>
                             <div class="col-md-12">
                                 <label class="form-label" for="description">Mô tả :</label>
-                                <input type="file" name="description" id="descriptionfile" accept=".doc,.docx">
+                                <input type="text" name="description" id="description" asp-for="@Model.Description">
+                                <span asp-validation-for="@Model.Language" class="text-danger "></span>
+
                             </div>
                             <div class="col-md-12">
                                 <button type="submit" class="btn-edit">Thêm</button>
@@ -71,7 +91,7 @@
                         </div>
                     </form>
                 </div>
-             
+
             </div>
 
         </div>
