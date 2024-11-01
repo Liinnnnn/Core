@@ -54,7 +54,6 @@ namespace projekt1.Controllers
                     if (Url.IsLocalUrl(ReturnUrl))
                     {
                         return Redirect(ReturnUrl);
-
                     }
                     else
                     {
